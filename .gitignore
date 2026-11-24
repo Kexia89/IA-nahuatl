@@ -10,3 +10,4 @@ venv/
 .streamlit/secrets.toml
 models/*_anterior_*/
 dataset/*.zip
+verificacion_interfaz.json

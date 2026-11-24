@@ -15,6 +15,10 @@
   <img alt="Licencia MIT" src="https://img.shields.io/badge/código-MIT-0E6258">
 </p>
 
+<p align="center">
+  <a href="https://ia-n-huatl-ittcfxb3ygcsdwr4c8yjte.streamlit.app/"><strong>Abrir la aplicación</strong></a>
+</p>
+
 > [!IMPORTANT]
 > Este proyecto es un clasificador de intenciones con respuestas de un catálogo documentado. No es un traductor libre, no genera náhuatl nuevo y no sustituye a hablantes, docentes ni procesos comunitarios de validación.
 
@@ -41,8 +45,8 @@ El primer resultado es prometedor dentro del catálogo. No mide traducción gene
 Requiere Python 3.12 de 64 bits.
 
 ```bash
-git clone URL_DE_TU_REPOSITORIO
-cd NOMBRE_DEL_REPOSITORIO
+git clone https://github.com/Kexia89/IA-n-huatl.git
+cd IA-n-huatl
 python -m venv .venv
 ```
 
@@ -64,26 +68,7 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Abre `http://localhost:8501`. La primera inferencia tarda un poco más porque carga TensorFlow y el modelo elegido.
-
-## Publicar en GitHub y Streamlit Community Cloud
-
-1. Crea un repositorio vacío en GitHub y reemplaza `URL_DE_TU_REPOSITORIO` en este README.
-2. Desde esta carpeta ejecuta:
-
-   ```bash
-   git init
-   git add .
-   git commit -m "Publica Tlahtolli"
-   git branch -M main
-   git remote add origin URL_DE_TU_REPOSITORIO.git
-   git push -u origin main
-   ```
-
-3. En [share.streamlit.io](https://share.streamlit.io), selecciona el repositorio, la rama `main` y `app.py` como archivo principal.
-4. La app no necesita secretos. Streamlit instalará `requirements.txt` y utilizará `runtime.txt`.
-
-Los dos modelos ocupan menos de 3 MB en conjunto, por lo que caben en GitHub sin Git LFS.
+Abre `http://localhost:8501`. La primera inferencia tarda un poco más porque carga TensorFlow y el modelo elegido. La versión pública está disponible en [Streamlit](https://ia-n-huatl-ittcfxb3ygcsdwr4c8yjte.streamlit.app/).
 
 ## Reentrenar
 
@@ -123,9 +108,13 @@ La arquitectura procesa caracteres: `Embedding(32) → Conv1D(96) → Conv1D(96)
 
 ```bash
 python -m unittest discover -s tests -v
+python verificar_integridad.py
+python verificar_integridad.py --inferir
 ```
 
 Las pruebas rápidas validan normalización, codificación, particiones, etiquetas, umbrales y manejo de entradas fuera de vocabulario. `entrenar.py` también vuelve a cargar cada H5 y compara sus predicciones antes de dar el entrenamiento por terminado.
+
+Los artefactos de `models/` y `dataset/` se registran como contenido sin normalización de texto en `.gitattributes`. Esto conserva exactamente sus bytes y sus firmas SHA-256 al mover el repositorio entre Windows, GitHub, Linux y Streamlit Community Cloud. Si se cambia esta política en un repositorio ya publicado, hay que volver a añadir los artefactos originales al índice de Git antes de hacer el commit.
 
 ## Hoja de ruta
 

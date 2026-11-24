@@ -14,6 +14,23 @@ def leer_json(path):
     return Path(path).read_text(encoding='utf-8-sig')
 
 
+def calcular_sha256(path):
+    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+
+
+def diagnosticar_saltos_linea(path, esperado):
+    contenido = Path(path).read_bytes()
+    candidatos = []
+    if b'\r\n' in contenido:
+        candidatos.append(('LF', contenido.replace(b'\r\n', b'\n')))
+    elif b'\n' in contenido:
+        candidatos.append(('CRLF', contenido.replace(b'\n', b'\r\n')))
+    for formato, candidato in candidatos:
+        if hashlib.sha256(candidato).hexdigest() == esperado:
+            return f' Git convirtió sus saltos de línea; la versión esperada usa {formato}.'
+    return ''
+
+
 def normalizar(texto):
     return ' '.join(unicodedata.normalize('NFC', texto).casefold().split())
 
@@ -54,8 +71,15 @@ class Predictor:
         for name, digest in self.config.get('sha256', {}).items():
             if name not in needed:
                 raise ValueError('El manifiesto del modelo contiene un archivo inesperado.')
-            if hashlib.sha256((self.directory / name).read_bytes()).hexdigest() != digest:
-                raise ValueError(f'{name} no corresponde a esta versión del modelo. Vuelve a entrenar o restaura su carpeta completa.')
+            path = self.directory / name
+            actual = calcular_sha256(path)
+            if actual != digest:
+                detalle = diagnosticar_saltos_linea(path, digest)
+                raise ValueError(
+                    f'{name} no corresponde a esta versión del modelo.'
+                    f'{detalle} Esperado: {digest}; actual: {actual}. '
+                    'Restaura la carpeta completa del entrenamiento.'
+                )
         self.tokenizador = json.loads(leer_json(self.directory / 'tokenizador.json'))
         self.tags = json.loads(leer_json(self.directory / 'etiquetas.json'))['tags']
         self.responses = json.loads(leer_json(self.directory / 'respuestas.json'))
