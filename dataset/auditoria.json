@@ -1,0 +1,27 @@
+{
+  "conversaciones": {
+    "intents": 29,
+    "patterns": 42,
+    "respuestas": 29,
+    "patrones_duplicados_entre_etiquetas": 0,
+    "esquema_valido": true
+  },
+  "aprendizaje": {
+    "intents": 345,
+    "patterns": 2412,
+    "respuestas": 345,
+    "patrones_duplicados_entre_etiquetas": 0,
+    "esquema_valido": true
+  },
+  "frases_bilingues_distintas": 174,
+  "frases_por_fuente": {
+    "inali": 13,
+    "uv": 20,
+    "axolotl": 141
+  },
+  "registros_axolotl_consultados": 16111,
+  "registros_huasteca_en_corpus": 1596,
+  "validacion_por_hablante_nativo": false,
+  "traduccion_automatica_usada": false,
+  "advertencia": "Validación estructural y selección editorial no garantizan exactitud lingüística. Los patterns españoles son sintéticos; no equivalen a conversaciones independientes."
+}

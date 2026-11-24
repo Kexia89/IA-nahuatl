@@ -1,0 +1,121 @@
+{
+  "intents": [
+    {
+      "tag": "uv_saludo",
+      "patterns": [
+        "Piyali",
+        "Piyali Juana",
+        "Piyali Pedro"
+      ],
+      "responses": [
+        "Piyali"
+      ]
+    },
+    {
+      "tag": "uv_saludo_manana",
+      "patterns": [
+        "Tonalti"
+      ],
+      "responses": [
+        "Tonalti"
+      ]
+    },
+    {
+      "tag": "uv_saludo_tarde",
+      "patterns": [
+        "Tiotlakilti"
+      ],
+      "responses": [
+        "Tiotlakilti"
+      ]
+    },
+    {
+      "tag": "uv_saludo_noche",
+      "patterns": [
+        "Tlapoyawalti"
+      ],
+      "responses": [
+        "Tlapoyawalti"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_nombre",
+      "patterns": [
+        "Tlen motoka?",
+        "Piyali, tlen motoka?"
+      ],
+      "responses": [
+        "Nah notoka Juana"
+      ]
+    },
+    {
+      "tag": "uv_estado_bien",
+      "patterns": [
+        "Kenihkatzah tiitztok?",
+        "Piyali Juana, kenihkatzah tiitztok?"
+      ],
+      "responses": [
+        "Kualli niitztok"
+      ]
+    },
+    {
+      "tag": "uv_reciprocidad_bien",
+      "patterns": [
+        "Kualli niitztok",
+        "Nohkia kualli niitztok"
+      ],
+      "responses": [
+        "Kualtitok"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_destino",
+      "patterns": [
+        "Kanke tiyah?"
+      ],
+      "responses": [
+        "Niyah tiankis"
+      ]
+    },
+    {
+      "tag": "uv_desear_buen_camino",
+      "patterns": [
+        "Niyah tiankis",
+        "Niyah nomilla"
+      ],
+      "responses": [
+        "Kualli xiyah"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_estudio",
+      "patterns": [
+        "Nikan timomachtia?"
+      ],
+      "responses": [
+        "Kena, nikan nimomachtia"
+      ]
+    },
+    {
+      "tag": "uv_despedida",
+      "patterns": [
+        "Timoitasehyok",
+        "Timopantisehyok",
+        "Timoittaseh",
+        "Kualli xiyah"
+      ],
+      "responses": [
+        "Timoittaseh"
+      ]
+    },
+    {
+      "tag": "uv_aceptacion",
+      "patterns": [
+        "Kena"
+      ],
+      "responses": [
+        "Kualtitok"
+      ]
+    }
+  ]
+}

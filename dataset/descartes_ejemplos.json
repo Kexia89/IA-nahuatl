@@ -1,0 +1,33 @@
+{
+  "nota": "Ejemplos de problemas detectados; lista ilustrativa, no auditoría exhaustiva del corpus.",
+  "ejemplos": [
+    {
+      "registro_csv": 612,
+      "es": "aguaceros",
+      "nah": "pejki",
+      "motivo": "Equivalencia léxica sospechosa: aguaceros / pejki; no utilizar."
+    },
+    {
+      "registro_csv": 796,
+      "es": "muchacha.",
+      "nah": "kipantito.",
+      "motivo": "No corresponden como equivalentes aislados: muchacha / kipantito."
+    },
+    {
+      "registro_csv": 10203,
+      "es": "la tenía",
+      "nah": "axkipí",
+      "motivo": "Negación en náhuatl ausente de la glosa española."
+    },
+    {
+      "registro_csv": 10717,
+      "es": "comer",
+      "nah": "Magdalena",
+      "motivo": "Desalineación evidente: comer / Magdalena."
+    },
+    {
+      "tag": "axolotl_pedir_explicacion_accion",
+      "motivo": "La respuesta conservaba una acotación del narrador; no es un turno conversacional limpio."
+    }
+  ]
+}

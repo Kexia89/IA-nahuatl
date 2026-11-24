@@ -1,0 +1,516 @@
+{"text": "Enséñame a escribir en náhuatl: bienvenidos", "tag": "es_nah_0001", "label": 0, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «bienvenidos».", "tag": "es_nah_0001", "label": 0, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: buenos días", "tag": "es_nah_0002", "label": 1, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «buenos días».", "tag": "es_nah_0002", "label": 1, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: buenas tardes", "tag": "es_nah_0003", "label": 2, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «buenas tardes».", "tag": "es_nah_0003", "label": 2, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: buenas noches", "tag": "es_nah_0004", "label": 3, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «buenas noches».", "tag": "es_nah_0004", "label": 3, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: que disfruten de esta reunión", "tag": "es_nah_0005", "label": 4, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «que disfruten de esta reunión».", "tag": "es_nah_0005", "label": 4, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: pase usted", "tag": "es_nah_0006", "label": 5, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «pase usted».", "tag": "es_nah_0006", "label": 5, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: con permiso; disculpe usted", "tag": "es_nah_0007", "label": 6, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «con permiso; disculpe usted».", "tag": "es_nah_0007", "label": 6, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: muchas gracias", "tag": "es_nah_0008", "label": 7, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «muchas gracias».", "tag": "es_nah_0008", "label": 7, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: buen provecho", "tag": "es_nah_0009", "label": 8, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «buen provecho».", "tag": "es_nah_0009", "label": 8, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: muchas gracias por su visita", "tag": "es_nah_0010", "label": 9, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «muchas gracias por su visita».", "tag": "es_nah_0010", "label": 9, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: vuelva pronto", "tag": "es_nah_0011", "label": 10, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «vuelva pronto».", "tag": "es_nah_0011", "label": 10, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: que te vaya bien; buen camino", "tag": "es_nah_0012", "label": 11, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «que te vaya bien; buen camino».", "tag": "es_nah_0012", "label": 11, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: adiós; nos vemos", "tag": "es_nah_0013", "label": 12, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «adiós; nos vemos».", "tag": "es_nah_0013", "label": 12, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: hola", "tag": "es_nah_0014", "label": 13, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «hola».", "tag": "es_nah_0014", "label": 13, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: nos veremos luego", "tag": "es_nah_0015", "label": 14, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «nos veremos luego».", "tag": "es_nah_0015", "label": 14, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: nos encontraremos luego", "tag": "es_nah_0016", "label": 15, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «nos encontraremos luego».", "tag": "es_nah_0016", "label": 15, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ¿cómo te llamas?", "tag": "es_nah_0017", "label": 16, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «¿cómo te llamas?».", "tag": "es_nah_0017", "label": 16, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: yo me llamo Juana", "tag": "es_nah_0018", "label": 17, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «yo me llamo Juana».", "tag": "es_nah_0018", "label": 17, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: está bien", "tag": "es_nah_0019", "label": 18, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «está bien».", "tag": "es_nah_0019", "label": 18, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: sí", "tag": "es_nah_0020", "label": 19, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «sí».", "tag": "es_nah_0020", "label": 19, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: nos vemos", "tag": "es_nah_0021", "label": 20, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «nos vemos».", "tag": "es_nah_0021", "label": 20, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ¿a dónde vas?", "tag": "es_nah_0022", "label": 21, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «¿a dónde vas?».", "tag": "es_nah_0022", "label": 21, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: voy al tianguis", "tag": "es_nah_0023", "label": 22, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «voy al tianguis».", "tag": "es_nah_0023", "label": 22, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: voy a mi milpa", "tag": "es_nah_0024", "label": 23, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «voy a mi milpa».", "tag": "es_nah_0024", "label": 23, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: que te vaya bien", "tag": "es_nah_0025", "label": 24, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «que te vaya bien».", "tag": "es_nah_0025", "label": 24, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ¿cómo estás?", "tag": "es_nah_0026", "label": 25, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «¿cómo estás?».", "tag": "es_nah_0026", "label": 25, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: estoy bien", "tag": "es_nah_0027", "label": 26, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «estoy bien».", "tag": "es_nah_0027", "label": 26, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: también estoy bien", "tag": "es_nah_0028", "label": 27, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «también estoy bien».", "tag": "es_nah_0028", "label": 27, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ¿aquí estudias?", "tag": "es_nah_0029", "label": 28, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «¿aquí estudias?».", "tag": "es_nah_0029", "label": 28, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: sí, aquí estudio", "tag": "es_nah_0030", "label": 29, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «sí, aquí estudio».", "tag": "es_nah_0030", "label": 29, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: se metían", "tag": "es_nah_0031", "label": 30, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «se metían».", "tag": "es_nah_0031", "label": 30, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: vacío", "tag": "es_nah_0032", "label": 31, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «vacío».", "tag": "es_nah_0032", "label": 31, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: pollos", "tag": "es_nah_0033", "label": 32, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «pollos».", "tag": "es_nah_0033", "label": 32, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: se fueron", "tag": "es_nah_0034", "label": 33, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «se fueron».", "tag": "es_nah_0034", "label": 33, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: allá van", "tag": "es_nah_0035", "label": 34, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «allá van».", "tag": "es_nah_0035", "label": 34, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ya párense", "tag": "es_nah_0036", "label": 35, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «ya párense».", "tag": "es_nah_0036", "label": 35, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Eso lo hizo", "tag": "es_nah_0037", "label": 36, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Eso lo hizo».", "tag": "es_nah_0037", "label": 36, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: un niño", "tag": "es_nah_0038", "label": 37, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «un niño».", "tag": "es_nah_0038", "label": 37, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Yo buscaré carpinteros", "tag": "es_nah_0039", "label": 38, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Yo buscaré carpinteros».", "tag": "es_nah_0039", "label": 38, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Gracias que viniste", "tag": "es_nah_0040", "label": 39, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Gracias que viniste».", "tag": "es_nah_0040", "label": 39, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Es un cuento largo, ya no lo sé bien", "tag": "es_nah_0041", "label": 40, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Es un cuento largo, ya no lo sé bien».", "tag": "es_nah_0041", "label": 40, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: De nuevo regresaron a la tierra", "tag": "es_nah_0042", "label": 41, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «De nuevo regresaron a la tierra».", "tag": "es_nah_0042", "label": 41, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: puercos", "tag": "es_nah_0043", "label": 42, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «puercos».", "tag": "es_nah_0043", "label": 42, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ellos están enojados", "tag": "es_nah_0044", "label": 43, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ellos están enojados».", "tag": "es_nah_0044", "label": 43, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Nadie come el animal", "tag": "es_nah_0045", "label": 44, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Nadie come el animal».", "tag": "es_nah_0045", "label": 44, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: hormigas", "tag": "es_nah_0046", "label": 45, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «hormigas».", "tag": "es_nah_0046", "label": 45, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ahora van a creer lo que les voy a decir", "tag": "es_nah_0047", "label": 46, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ahora van a creer lo que les voy a decir».", "tag": "es_nah_0047", "label": 46, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: guajolotes", "tag": "es_nah_0048", "label": 47, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «guajolotes».", "tag": "es_nah_0048", "label": 47, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se fue hasta arriba", "tag": "es_nah_0049", "label": 48, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se fue hasta arriba».", "tag": "es_nah_0049", "label": 48, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: hace tiempo", "tag": "es_nah_0050", "label": 49, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «hace tiempo».", "tag": "es_nah_0050", "label": 49, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Hagámonos un baño de vapor", "tag": "es_nah_0051", "label": 50, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Hagámonos un baño de vapor».", "tag": "es_nah_0051", "label": 50, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: muchachito", "tag": "es_nah_0052", "label": 51, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «muchachito».", "tag": "es_nah_0052", "label": 51, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: se metió", "tag": "es_nah_0053", "label": 52, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «se metió».", "tag": "es_nah_0053", "label": 52, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Cuando bajó", "tag": "es_nah_0054", "label": 53, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Cuando bajó».", "tag": "es_nah_0054", "label": 53, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: pelean", "tag": "es_nah_0055", "label": 54, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «pelean».", "tag": "es_nah_0055", "label": 54, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Después mandó a otro", "tag": "es_nah_0056", "label": 55, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Después mandó a otro».", "tag": "es_nah_0056", "label": 55, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ¡Vete!", "tag": "es_nah_0057", "label": 56, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «¡Vete!».", "tag": "es_nah_0057", "label": 56, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: La abuelita pensaba que iba a ganar a su nieto", "tag": "es_nah_0058", "label": 57, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «La abuelita pensaba que iba a ganar a su nieto».", "tag": "es_nah_0058", "label": 57, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: quiso ir", "tag": "es_nah_0059", "label": 58, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «quiso ir».", "tag": "es_nah_0059", "label": 58, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ellos trabajan", "tag": "es_nah_0060", "label": 59, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ellos trabajan».", "tag": "es_nah_0060", "label": 59, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Había un jacalito", "tag": "es_nah_0061", "label": 60, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Había un jacalito».", "tag": "es_nah_0061", "label": 60, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: cerro", "tag": "es_nah_0062", "label": 61, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «cerro».", "tag": "es_nah_0062", "label": 61, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Estoy mojada de la cabeza", "tag": "es_nah_0063", "label": 62, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Estoy mojada de la cabeza».", "tag": "es_nah_0063", "label": 62, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Levantó su canasta y se vino", "tag": "es_nah_0064", "label": 63, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Levantó su canasta y se vino».", "tag": "es_nah_0064", "label": 63, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: se preocupaba", "tag": "es_nah_0065", "label": 64, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «se preocupaba».", "tag": "es_nah_0065", "label": 64, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: De veras", "tag": "es_nah_0066", "label": 65, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «De veras».", "tag": "es_nah_0066", "label": 65, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: de diario", "tag": "es_nah_0067", "label": 66, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «de diario».", "tag": "es_nah_0067", "label": 66, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Va así", "tag": "es_nah_0068", "label": 67, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Va así».", "tag": "es_nah_0068", "label": 67, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: En tres meses se hizo un elote fuerte", "tag": "es_nah_0069", "label": 68, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «En tres meses se hizo un elote fuerte».", "tag": "es_nah_0069", "label": 68, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Le dijo", "tag": "es_nah_0070", "label": 69, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Le dijo».", "tag": "es_nah_0070", "label": 69, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Entonces Pedro y Pablo ellos trabajan", "tag": "es_nah_0071", "label": 70, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Entonces Pedro y Pablo ellos trabajan».", "tag": "es_nah_0071", "label": 70, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Eso dicen", "tag": "es_nah_0072", "label": 71, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Eso dicen».", "tag": "es_nah_0072", "label": 71, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Nomás se fue a acabar el trabajo que hacían", "tag": "es_nah_0073", "label": 72, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Nomás se fue a acabar el trabajo que hacían».", "tag": "es_nah_0073", "label": 72, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: están enojados", "tag": "es_nah_0074", "label": 73, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «están enojados».", "tag": "es_nah_0074", "label": 73, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: algodón", "tag": "es_nah_0075", "label": 74, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «algodón».", "tag": "es_nah_0075", "label": 74, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ya se fueron", "tag": "es_nah_0076", "label": 75, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ya se fueron».", "tag": "es_nah_0076", "label": 75, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Allá llegó", "tag": "es_nah_0077", "label": 76, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Allá llegó».", "tag": "es_nah_0077", "label": 76, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Muchos trabajan", "tag": "es_nah_0078", "label": 77, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Muchos trabajan».", "tag": "es_nah_0078", "label": 77, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Había maíz", "tag": "es_nah_0079", "label": 78, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Había maíz».", "tag": "es_nah_0079", "label": 78, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: no estaba", "tag": "es_nah_0080", "label": 79, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «no estaba».", "tag": "es_nah_0080", "label": 79, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: otras cosas", "tag": "es_nah_0081", "label": 80, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «otras cosas».", "tag": "es_nah_0081", "label": 80, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Tú otra vez hiciste eso", "tag": "es_nah_0082", "label": 81, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Tú otra vez hiciste eso».", "tag": "es_nah_0082", "label": 81, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Hace mucho tiempo estaba", "tag": "es_nah_0083", "label": 82, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Hace mucho tiempo estaba».", "tag": "es_nah_0083", "label": 82, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se hizo en tres pedazos", "tag": "es_nah_0084", "label": 83, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se hizo en tres pedazos».", "tag": "es_nah_0084", "label": 83, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: fue", "tag": "es_nah_0085", "label": 84, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «fue».", "tag": "es_nah_0085", "label": 84, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: No hay qué comer", "tag": "es_nah_0086", "label": 85, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «No hay qué comer».", "tag": "es_nah_0086", "label": 85, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Quién sabe para dónde se fueron", "tag": "es_nah_0087", "label": 86, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Quién sabe para dónde se fueron».", "tag": "es_nah_0087", "label": 86, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Bueno, gracias", "tag": "es_nah_0088", "label": 87, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Bueno, gracias».", "tag": "es_nah_0088", "label": 87, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Si me aceptas entonces vamos a estar juntos", "tag": "es_nah_0089", "label": 88, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Si me aceptas entonces vamos a estar juntos».", "tag": "es_nah_0089", "label": 88, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Meten masa aquí para que cueza", "tag": "es_nah_0090", "label": 89, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Meten masa aquí para que cueza».", "tag": "es_nah_0090", "label": 89, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Es monte otra vez ahora", "tag": "es_nah_0091", "label": 90, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Es monte otra vez ahora».", "tag": "es_nah_0091", "label": 90, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Yo ya me voy", "tag": "es_nah_0092", "label": 91, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Yo ya me voy».", "tag": "es_nah_0092", "label": 91, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: De allí vino, dicen", "tag": "es_nah_0093", "label": 92, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «De allí vino, dicen».", "tag": "es_nah_0093", "label": 92, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: tuvo", "tag": "es_nah_0094", "label": 93, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «tuvo».", "tag": "es_nah_0094", "label": 93, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: San Pedro, él fue a trabajar", "tag": "es_nah_0095", "label": 94, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «San Pedro, él fue a trabajar».", "tag": "es_nah_0095", "label": 94, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Voy a sacar a los muy grandes", "tag": "es_nah_0096", "label": 95, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Voy a sacar a los muy grandes».", "tag": "es_nah_0096", "label": 95, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Dicen que ellos quieren escuchar, dicen", "tag": "es_nah_0097", "label": 96, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Dicen que ellos quieren escuchar, dicen».", "tag": "es_nah_0097", "label": 96, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se llevó el ayate", "tag": "es_nah_0098", "label": 97, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se llevó el ayate».", "tag": "es_nah_0098", "label": 97, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Trabajo y ahora sigue el monte", "tag": "es_nah_0099", "label": 98, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Trabajo y ahora sigue el monte».", "tag": "es_nah_0099", "label": 98, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Pues ahora no me perdí", "tag": "es_nah_0100", "label": 99, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Pues ahora no me perdí».", "tag": "es_nah_0100", "label": 99, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ya no entendieron lo que se decían", "tag": "es_nah_0101", "label": 100, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ya no entendieron lo que se decían».", "tag": "es_nah_0101", "label": 100, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: allí", "tag": "es_nah_0102", "label": 101, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «allí».", "tag": "es_nah_0102", "label": 101, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ya no se pueden mandar para que trabajen", "tag": "es_nah_0103", "label": 102, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ya no se pueden mandar para que trabajen».", "tag": "es_nah_0103", "label": 102, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Vio que venía encima del agua", "tag": "es_nah_0104", "label": 103, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Vio que venía encima del agua».", "tag": "es_nah_0104", "label": 103, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Lo juntaron", "tag": "es_nah_0105", "label": 104, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Lo juntaron».", "tag": "es_nah_0105", "label": 104, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Y la muchacha se aburría por estar sola", "tag": "es_nah_0106", "label": 105, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Y la muchacha se aburría por estar sola».", "tag": "es_nah_0106", "label": 105, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Empezó a irse", "tag": "es_nah_0107", "label": 106, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Empezó a irse».", "tag": "es_nah_0107", "label": 106, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: grandes pescados", "tag": "es_nah_0108", "label": 107, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «grandes pescados».", "tag": "es_nah_0108", "label": 107, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: su esposa", "tag": "es_nah_0109", "label": 108, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «su esposa».", "tag": "es_nah_0109", "label": 108, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: relampaguea mucho", "tag": "es_nah_0110", "label": 109, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «relampaguea mucho».", "tag": "es_nah_0110", "label": 109, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: te buscamos", "tag": "es_nah_0111", "label": 110, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «te buscamos».", "tag": "es_nah_0111", "label": 110, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: allí están", "tag": "es_nah_0112", "label": 111, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «allí están».", "tag": "es_nah_0112", "label": 111, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Sólo siete veces vamos a tocarla y está bien", "tag": "es_nah_0113", "label": 112, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Sólo siete veces vamos a tocarla y está bien».", "tag": "es_nah_0113", "label": 112, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Eso se dice que es un cuento", "tag": "es_nah_0114", "label": 113, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Eso se dice que es un cuento».", "tag": "es_nah_0114", "label": 113, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: No has visto qué está haciendo", "tag": "es_nah_0115", "label": 114, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «No has visto qué está haciendo».", "tag": "es_nah_0115", "label": 114, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Aquí está", "tag": "es_nah_0116", "label": 115, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Aquí está».", "tag": "es_nah_0116", "label": 115, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Quieren, todos quieren maíz para sembrar", "tag": "es_nah_0117", "label": 116, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Quieren, todos quieren maíz para sembrar».", "tag": "es_nah_0117", "label": 116, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: bebé", "tag": "es_nah_0118", "label": 117, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «bebé».", "tag": "es_nah_0118", "label": 117, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: comen", "tag": "es_nah_0119", "label": 118, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «comen».", "tag": "es_nah_0119", "label": 118, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: No sé adónde se fue", "tag": "es_nah_0120", "label": 119, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «No sé adónde se fue».", "tag": "es_nah_0120", "label": 119, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: cenizas", "tag": "es_nah_0121", "label": 120, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «cenizas».", "tag": "es_nah_0121", "label": 120, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Así están las cosas ahora", "tag": "es_nah_0122", "label": 121, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Así están las cosas ahora».", "tag": "es_nah_0122", "label": 121, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: ya viste", "tag": "es_nah_0123", "label": 122, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «ya viste».", "tag": "es_nah_0123", "label": 122, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: te busqué", "tag": "es_nah_0124", "label": 123, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «te busqué».", "tag": "es_nah_0124", "label": 123, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se secó todo", "tag": "es_nah_0125", "label": 124, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se secó todo».", "tag": "es_nah_0125", "label": 124, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se mueve", "tag": "es_nah_0126", "label": 125, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se mueve».", "tag": "es_nah_0126", "label": 125, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: aquí estaría", "tag": "es_nah_0127", "label": 126, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «aquí estaría».", "tag": "es_nah_0127", "label": 126, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Así lo hicieron", "tag": "es_nah_0128", "label": 127, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Así lo hicieron».", "tag": "es_nah_0128", "label": 127, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se habló", "tag": "es_nah_0129", "label": 128, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se habló».", "tag": "es_nah_0129", "label": 128, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: un animal", "tag": "es_nah_0130", "label": 129, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «un animal».", "tag": "es_nah_0130", "label": 129, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: un cajón", "tag": "es_nah_0131", "label": 130, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «un cajón».", "tag": "es_nah_0131", "label": 130, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: allí está", "tag": "es_nah_0132", "label": 131, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «allí está».", "tag": "es_nah_0132", "label": 131, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: milpa", "tag": "es_nah_0133", "label": 132, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «milpa».", "tag": "es_nah_0133", "label": 132, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Está bien que regresaste", "tag": "es_nah_0134", "label": 133, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Está bien que regresaste».", "tag": "es_nah_0134", "label": 133, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: es nublado", "tag": "es_nah_0135", "label": 134, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «es nublado».", "tag": "es_nah_0135", "label": 134, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ustedes van a trabajar", "tag": "es_nah_0136", "label": 135, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ustedes van a trabajar».", "tag": "es_nah_0136", "label": 135, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Dicen, pero quién sabe si es verdad", "tag": "es_nah_0137", "label": 136, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Dicen, pero quién sabe si es verdad».", "tag": "es_nah_0137", "label": 136, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Así pasó", "tag": "es_nah_0138", "label": 137, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Así pasó».", "tag": "es_nah_0138", "label": 137, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: No fue a ninguna parte", "tag": "es_nah_0139", "label": 138, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «No fue a ninguna parte».", "tag": "es_nah_0139", "label": 138, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ellos en mayo, ellos rozan y rozan", "tag": "es_nah_0140", "label": 139, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ellos en mayo, ellos rozan y rozan».", "tag": "es_nah_0140", "label": 139, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Allá lo fue a tirar en el agua", "tag": "es_nah_0141", "label": 140, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Allá lo fue a tirar en el agua».", "tag": "es_nah_0141", "label": 140, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Sí, allí vamos a estar bien", "tag": "es_nah_0142", "label": 141, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Sí, allí vamos a estar bien».", "tag": "es_nah_0142", "label": 141, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Yo voy a traer agua", "tag": "es_nah_0143", "label": 142, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Yo voy a traer agua».", "tag": "es_nah_0143", "label": 142, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: se juntaron", "tag": "es_nah_0144", "label": 143, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «se juntaron».", "tag": "es_nah_0144", "label": 143, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Después se enojaron", "tag": "es_nah_0145", "label": 144, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Después se enojaron».", "tag": "es_nah_0145", "label": 144, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Estábamos muchos", "tag": "es_nah_0146", "label": 145, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Estábamos muchos».", "tag": "es_nah_0146", "label": 145, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Allí termina el cuento", "tag": "es_nah_0147", "label": 146, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Allí termina el cuento».", "tag": "es_nah_0147", "label": 146, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: En su espalda subió y le está agarrando bien", "tag": "es_nah_0148", "label": 147, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «En su espalda subió y le está agarrando bien».", "tag": "es_nah_0148", "label": 147, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Pero ahora, pero ahora nosotros estaremos aquí", "tag": "es_nah_0149", "label": 148, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Pero ahora, pero ahora nosotros estaremos aquí».", "tag": "es_nah_0149", "label": 148, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: se contentaron", "tag": "es_nah_0150", "label": 149, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «se contentaron».", "tag": "es_nah_0150", "label": 149, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ya no vas a comer", "tag": "es_nah_0151", "label": 150, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ya no vas a comer».", "tag": "es_nah_0151", "label": 150, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: hay agua", "tag": "es_nah_0152", "label": 151, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «hay agua».", "tag": "es_nah_0152", "label": 151, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Allí la acabó", "tag": "es_nah_0153", "label": 152, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Allí la acabó».", "tag": "es_nah_0153", "label": 152, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: hace años", "tag": "es_nah_0154", "label": 153, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «hace años».", "tag": "es_nah_0154", "label": 153, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: siempre", "tag": "es_nah_0155", "label": 154, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «siempre».", "tag": "es_nah_0155", "label": 154, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: había", "tag": "es_nah_0156", "label": 155, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «había».", "tag": "es_nah_0156", "label": 155, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Otras cosas no las come", "tag": "es_nah_0157", "label": 156, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Otras cosas no las come».", "tag": "es_nah_0157", "label": 156, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: cae llovizna", "tag": "es_nah_0158", "label": 157, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «cae llovizna».", "tag": "es_nah_0158", "label": 157, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Se acabó el cuento", "tag": "es_nah_0159", "label": 158, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Se acabó el cuento».", "tag": "es_nah_0159", "label": 158, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Sí estuve", "tag": "es_nah_0160", "label": 159, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Sí estuve».", "tag": "es_nah_0160", "label": 159, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Pero es grande el cerro", "tag": "es_nah_0161", "label": 160, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Pero es grande el cerro».", "tag": "es_nah_0161", "label": 160, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: En la tarde llegaron", "tag": "es_nah_0162", "label": 161, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «En la tarde llegaron».", "tag": "es_nah_0162", "label": 161, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: el monte", "tag": "es_nah_0163", "label": 162, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «el monte».", "tag": "es_nah_0163", "label": 162, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Trabajas bien, tú eres un Buen Joven", "tag": "es_nah_0164", "label": 163, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Trabajas bien, tú eres un Buen Joven».", "tag": "es_nah_0164", "label": 163, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Me voy para llegar a mi casa", "tag": "es_nah_0165", "label": 164, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Me voy para llegar a mi casa».", "tag": "es_nah_0165", "label": 164, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Suben arriba", "tag": "es_nah_0166", "label": 165, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Suben arriba».", "tag": "es_nah_0166", "label": 165, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Uta, no va a ser difícil que se haga", "tag": "es_nah_0167", "label": 166, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Uta, no va a ser difícil que se haga».", "tag": "es_nah_0167", "label": 166, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: Ahora aquí estoy", "tag": "es_nah_0168", "label": 167, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «Ahora aquí estoy».", "tag": "es_nah_0168", "label": 167, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: esclareció", "tag": "es_nah_0169", "label": 168, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «esclareció».", "tag": "es_nah_0169", "label": 168, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: mucha agua", "tag": "es_nah_0170", "label": 169, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «mucha agua».", "tag": "es_nah_0170", "label": 169, "template_index": 5}
+{"text": "Enséñame a escribir en náhuatl: nuestro perro", "tag": "es_nah_0171", "label": 170, "template_index": 4}
+{"text": "Necesito la traducción al náhuatl de «nuestro perro».", "tag": "es_nah_0171", "label": 170, "template_index": 5}
+{"text": "Explícame en español «Mah cualli xihualacan».", "tag": "nah_es_0001", "label": 171, "template_index": 4}
+{"text": "Explícame en español «Mah cualli tonalli».", "tag": "nah_es_0002", "label": 172, "template_index": 4}
+{"text": "Explícame en español «Mah cualli teotlac».", "tag": "nah_es_0003", "label": 173, "template_index": 4}
+{"text": "Explícame en español «Mah cualli yohualli».", "tag": "nah_es_0004", "label": 174, "template_index": 4}
+{"text": "Explícame en español «Mah xiyopalquican ini misentiliztli».", "tag": "nah_es_0005", "label": 175, "template_index": 4}
+{"text": "Explícame en español «Mah xipano».", "tag": "nah_es_0006", "label": 176, "template_index": 4}
+{"text": "Explícame en español «Mah xinechtlahpopolhui».", "tag": "nah_es_0007", "label": 177, "template_index": 4}
+{"text": "Explícame en español «Tlazohcamati miyac».", "tag": "nah_es_0008", "label": 178, "template_index": 4}
+{"text": "Explícame en español «Mah xitlacuacan cualli».", "tag": "nah_es_0009", "label": 179, "template_index": 4}
+{"text": "Explícame en español «Tlazohcamati ipampa otitechitaco».", "tag": "nah_es_0010", "label": 180, "template_index": 4}
+{"text": "Explícame en español «Icihuaca ximocuepa».", "tag": "nah_es_0011", "label": 181, "template_index": 4}
+{"text": "Explícame en español «Mah cualli ohtli».", "tag": "nah_es_0012", "label": 182, "template_index": 4}
+{"text": "Explícame en español «Timoitase».", "tag": "nah_es_0013", "label": 183, "template_index": 4}
+{"text": "Explícame en español «Piyali».", "tag": "nah_es_0014", "label": 184, "template_index": 4}
+{"text": "Explícame en español «Tonalti».", "tag": "nah_es_0015", "label": 185, "template_index": 4}
+{"text": "Explícame en español «Tiotlakilti».", "tag": "nah_es_0016", "label": 186, "template_index": 4}
+{"text": "Explícame en español «Tlapoyawalti».", "tag": "nah_es_0017", "label": 187, "template_index": 4}
+{"text": "Explícame en español «Timoitasehyok».", "tag": "nah_es_0018", "label": 188, "template_index": 4}
+{"text": "Explícame en español «Timopantisehyok».", "tag": "nah_es_0019", "label": 189, "template_index": 4}
+{"text": "Explícame en español «Tlen motoka?».", "tag": "nah_es_0020", "label": 190, "template_index": 4}
+{"text": "Explícame en español «Nah notoka Juana».", "tag": "nah_es_0021", "label": 191, "template_index": 4}
+{"text": "Explícame en español «Kualtitok».", "tag": "nah_es_0022", "label": 192, "template_index": 4}
+{"text": "Explícame en español «Kena».", "tag": "nah_es_0023", "label": 193, "template_index": 4}
+{"text": "Explícame en español «Timoittaseh».", "tag": "nah_es_0024", "label": 194, "template_index": 4}
+{"text": "Explícame en español «Kanke tiyah?».", "tag": "nah_es_0025", "label": 195, "template_index": 4}
+{"text": "Explícame en español «Niyah tiankis».", "tag": "nah_es_0026", "label": 196, "template_index": 4}
+{"text": "Explícame en español «Niyah nomilla».", "tag": "nah_es_0027", "label": 197, "template_index": 4}
+{"text": "Explícame en español «Kualli xiyah».", "tag": "nah_es_0028", "label": 198, "template_index": 4}
+{"text": "Explícame en español «Kenihkatzah tiitztok?».", "tag": "nah_es_0029", "label": 199, "template_index": 4}
+{"text": "Explícame en español «Kualli niitztok».", "tag": "nah_es_0030", "label": 200, "template_index": 4}
+{"text": "Explícame en español «Nohkia kualli niitztok».", "tag": "nah_es_0031", "label": 201, "template_index": 4}
+{"text": "Explícame en español «Nikan timomachtia?».", "tag": "nah_es_0032", "label": 202, "template_index": 4}
+{"text": "Explícame en español «Kena, nikan nimomachtia».", "tag": "nah_es_0033", "label": 203, "template_index": 4}
+{"text": "Explícame en español «kalakiyayaj».", "tag": "nah_es_0034", "label": 204, "template_index": 4}
+{"text": "Explícame en español «tlakaktok».", "tag": "nah_es_0035", "label": 205, "template_index": 4}
+{"text": "Explícame en español «piyome».", "tag": "nah_es_0036", "label": 206, "template_index": 4}
+{"text": "Explícame en español «yajke».", "tag": "nah_es_0037", "label": 207, "template_index": 4}
+{"text": "Explícame en español «nepa yauij».", "tag": "nah_es_0038", "label": 208, "template_index": 4}
+{"text": "Explícame en español «ya ximoketsaka».", "tag": "nah_es_0039", "label": 209, "template_index": 4}
+{"text": "Explícame en español «Ya nopa kichijki».", "tag": "nah_es_0040", "label": 210, "template_index": 4}
+{"text": "Explícame en español «konetl».", "tag": "nah_es_0041", "label": 211, "template_index": 4}
+{"text": "Explícame en español «Na nikintemos karpinteros».", "tag": "nah_es_0042", "label": 212, "template_index": 4}
+{"text": "Explícame en español «Tlaskamati para tiualajki».", "tag": "nah_es_0043", "label": 213, "template_index": 4}
+{"text": "Explícame en español «Ueyi kuentos noikí, ayok mero nijmati kuali».", "tag": "nah_es_0044", "label": 214, "template_index": 4}
+{"text": "Explícame en español «Sampa ualajke ni tlalchi».", "tag": "nah_es_0045", "label": 215, "template_index": 4}
+{"text": "Explícame en español «pitsome».", "tag": "nah_es_0046", "label": 216, "template_index": 4}
+{"text": "Explícame en español «Kualanij inijuanti».", "tag": "nah_es_0047", "label": 217, "template_index": 4}
+{"text": "Explícame en español «Axaka kikua nopa tekuani».", "tag": "nah_es_0048", "label": 218, "template_index": 4}
+{"text": "Explícame en español «axkanelime».", "tag": "nah_es_0049", "label": 219, "template_index": 4}
+{"text": "Explícame en español «Nama inkineltokase tlen nimechiluiski».", "tag": "nah_es_0050", "label": 220, "template_index": 4}
+{"text": "Explícame en español «totolime».", "tag": "nah_es_0051", "label": 221, "template_index": 4}
+{"text": "Explícame en español «Yajtok asta uajkapa».", "tag": "nah_es_0052", "label": 222, "template_index": 4}
+{"text": "Explícame en español «uajkajki».", "tag": "nah_es_0053", "label": 223, "template_index": 4}
+{"text": "Explícame en español «Ma timotemaka».", "tag": "nah_es_0054", "label": 224, "template_index": 4}
+{"text": "Explícame en español «pilokichpiltsi».", "tag": "nah_es_0055", "label": 225, "template_index": 4}
+{"text": "Explícame en español «kalajki».", "tag": "nah_es_0056", "label": 226, "template_index": 4}
+{"text": "Explícame en español «Kema ualtemok».", "tag": "nah_es_0057", "label": 227, "template_index": 4}
+{"text": "Explícame en español «moteuiaj».", "tag": "nah_es_0058", "label": 228, "template_index": 4}
+{"text": "Explícame en español «Teipa seyok kiualtitíanki».", "tag": "nah_es_0059", "label": 229, "template_index": 4}
+{"text": "Explícame en español «¡Xiya!».", "tag": "nah_es_0060", "label": 230, "template_index": 4}
+{"text": "Explícame en español «Moyoloiuiyaya ni tenantsi ya kitlanis iixui».", "tag": "nah_es_0061", "label": 231, "template_index": 4}
+{"text": "Explícame en español «kinejki yas».", "tag": "nah_es_0062", "label": 232, "template_index": 4}
+{"text": "Explícame en español «Inijuanti tekitij».", "tag": "nah_es_0063", "label": 233, "template_index": 4}
+{"text": "Explícame en español «Eltó se pilxakaltsi».", "tag": "nah_es_0064", "label": 234, "template_index": 4}
+{"text": "Explícame en español «tepetl».", "tag": "nah_es_0065", "label": 235, "template_index": 4}
+{"text": "Explícame en español «Nikuaxolontok».", "tag": "nah_es_0066", "label": 236, "template_index": 4}
+{"text": "Explícame en español «Kitlanantejke ikanasta uan ualajki».", "tag": "nah_es_0067", "label": 237, "template_index": 4}
+{"text": "Explícame en español «motekipacho».", "tag": "nah_es_0068", "label": 238, "template_index": 4}
+{"text": "Explícame en español «Nelí».", "tag": "nah_es_0069", "label": 239, "template_index": 4}
+{"text": "Explícame en español «mojmostla».", "tag": "nah_es_0070", "label": 240, "template_index": 4}
+{"text": "Explícame en español «Yaui ijkini».", "tag": "nah_es_0071", "label": 241, "template_index": 4}
+{"text": "Explícame en español «Eyi metstli kuali chikaelotl elito».", "tag": "nah_es_0072", "label": 242, "template_index": 4}
+{"text": "Explícame en español «Kiilui».", "tag": "nah_es_0073", "label": 243, "template_index": 4}
+{"text": "Explícame en español «Uajka ne Pedro uan nopa Pablo inijuanti tekitij».", "tag": "nah_es_0074", "label": 244, "template_index": 4}
+{"text": "Explícame en español «Ya nopa kiijtouaj».", "tag": "nah_es_0075", "label": 245, "template_index": 4}
+{"text": "Explícame en español «San tlamito nopa tekitl kichiuayayaj».", "tag": "nah_es_0076", "label": 246, "template_index": 4}
+{"text": "Explícame en español «kualanij».", "tag": "nah_es_0077", "label": 247, "template_index": 4}
+{"text": "Explícame en español «tlapochina».", "tag": "nah_es_0078", "label": 248, "template_index": 4}
+{"text": "Explícame en español «Yajkeya».", "tag": "nah_es_0079", "label": 249, "template_index": 4}
+{"text": "Explícame en español «Nepa noponi ajsito».", "tag": "nah_es_0080", "label": 250, "template_index": 4}
+{"text": "Explícame en español «Miyaki tekitij».", "tag": "nah_es_0081", "label": 251, "template_index": 4}
+{"text": "Explícame en español «Eltó sintli».", "tag": "nah_es_0082", "label": 252, "template_index": 4}
+{"text": "Explícame en español «axakak».", "tag": "nah_es_0083", "label": 253, "template_index": 4}
+{"text": "Explícame en español «sekinok tlamantli».", "tag": "nah_es_0084", "label": 254, "template_index": 4}
+{"text": "Explícame en español «Ya yani noja tijchijki».", "tag": "nah_es_0085", "label": 255, "template_index": 4}
+{"text": "Explícame en español «Uajkajki itstó».", "tag": "nah_es_0086", "label": 256, "template_index": 4}
+{"text": "Explícame en español «Mochijki eyi pedaso».", "tag": "nah_es_0087", "label": 257, "template_index": 4}
+{"text": "Explícame en español «yajki».", "tag": "nah_es_0088", "label": 258, "template_index": 4}
+{"text": "Explícame en español «Axonka tlen titlakuase».", "tag": "nah_es_0089", "label": 259, "template_index": 4}
+{"text": "Explícame en español «Kien sabe kanika yajke».", "tag": "nah_es_0090", "label": 260, "template_index": 4}
+{"text": "Explícame en español «Bueno, tlaskamati».", "tag": "nah_es_0091", "label": 261, "template_index": 4}
+{"text": "Explícame en español «Tla kena tinechseli uajka tiitstose sentika».", "tag": "nah_es_0092", "label": 262, "template_index": 4}
+{"text": "Explícame en español «Kikalakiyaj tixtli nikani para iksi».", "tag": "nah_es_0093", "label": 263, "template_index": 4}
+{"text": "Explícame en español «Kuatitla nama noja».", "tag": "nah_es_0094", "label": 264, "template_index": 4}
+{"text": "Explícame en español «Na ya niya».", "tag": "nah_es_0095", "label": 265, "template_index": 4}
+{"text": "Explícame en español «Noponi ualajki kiijtouaj».", "tag": "nah_es_0096", "label": 266, "template_index": 4}
+{"text": "Explícame en español «kipixki».", "tag": "nah_es_0097", "label": 267, "template_index": 4}
+{"text": "Explícame en español «San Pedro ya yajki tekititi».", "tag": "nah_es_0098", "label": 268, "template_index": 4}
+{"text": "Explícame en español «Nikinkixtis tlen uejueyi».", "tag": "nah_es_0099", "label": 269, "template_index": 4}
+{"text": "Explícame en español «Kiijtouaj inijuanti kinekij kikakise, kiijtouaj».", "tag": "nah_es_0100", "label": 270, "template_index": 4}
+{"text": "Explícame en español «Kiuik ayatl».", "tag": "nah_es_0101", "label": 271, "template_index": 4}
+{"text": "Explícame en español «Nitekiti uan nama san yayá kuatitla».", "tag": "nah_es_0102", "label": 272, "template_index": 4}
+{"text": "Explícame en español «Pues nama axkana naí nipolijki».", "tag": "nah_es_0103", "label": 273, "template_index": 4}
+{"text": "Explícame en español «Ayok mokakilijke tlen moiluiaj».", "tag": "nah_es_0104", "label": 274, "template_index": 4}
+{"text": "Explícame en español «noponi».", "tag": "nah_es_0105", "label": 275, "template_index": 4}
+{"text": "Explícame en español «Ayoikana uelij monauatiyaj para ma tekitika».", "tag": "nah_es_0106", "label": 276, "template_index": 4}
+{"text": "Explícame en español «Kiitak uala aixko».", "tag": "nah_es_0107", "label": 277, "template_index": 4}
+{"text": "Explícame en español «Kipejpenke».", "tag": "nah_es_0108", "label": 278, "template_index": 4}
+{"text": "Explícame en español «Uan nopa ichpokero kuesiui para iselti itstok».", "tag": "nah_es_0109", "label": 279, "template_index": 4}
+{"text": "Explícame en español «Tlakonanki yajki».", "tag": "nah_es_0110", "label": 280, "template_index": 4}
+{"text": "Explícame en español «uejueyi michime».", "tag": "nah_es_0111", "label": 281, "template_index": 4}
+{"text": "Explícame en español «isiua».", "tag": "nah_es_0112", "label": 282, "template_index": 4}
+{"text": "Explícame en español «tlauel tlapetlani».", "tag": "nah_es_0113", "label": 283, "template_index": 4}
+{"text": "Explícame en español «timitstemouaj».", "tag": "nah_es_0114", "label": 284, "template_index": 4}
+{"text": "Explícame en español «itstoke noponi».", "tag": "nah_es_0115", "label": 285, "template_index": 4}
+{"text": "Explícame en español «San chikompa titlatsilinise uan ya kuali».", "tag": "nah_es_0116", "label": 286, "template_index": 4}
+{"text": "Explícame en español «Ya nopa moijtó no se kuento».", "tag": "nah_es_0117", "label": 287, "template_index": 4}
+{"text": "Explícame en español «Axtle tijtlachilijtok tlen kichiua».", "tag": "nah_es_0118", "label": 288, "template_index": 4}
+{"text": "Explícame en español «Nika itstok».", "tag": "nah_es_0119", "label": 289, "template_index": 4}
+{"text": "Explícame en español «Kinekij, nochi kinekij sintli para kitokase».", "tag": "nah_es_0120", "label": 290, "template_index": 4}
+{"text": "Explícame en español «konetsi».", "tag": "nah_es_0121", "label": 291, "template_index": 4}
+{"text": "Explícame en español «kikuaj».", "tag": "nah_es_0122", "label": 292, "template_index": 4}
+{"text": "Explícame en español «Axnijmati kani nemito».", "tag": "nah_es_0123", "label": 293, "template_index": 4}
+{"text": "Explícame en español «kuanextli».", "tag": "nah_es_0124", "label": 294, "template_index": 4}
+{"text": "Explícame en español «Kejnopa eltok namantsi».", "tag": "nah_es_0125", "label": 295, "template_index": 4}
+{"text": "Explícame en español «ya tikitak».", "tag": "nah_es_0126", "label": 296, "template_index": 4}
+{"text": "Explícame en español «nimitstemo».", "tag": "nah_es_0127", "label": 297, "template_index": 4}
+{"text": "Explícame en español «San uakito nochi».", "tag": "nah_es_0128", "label": 298, "template_index": 4}
+{"text": "Explícame en español «Molini».", "tag": "nah_es_0129", "label": 299, "template_index": 4}
+{"text": "Explícame en español «nika itstoskí».", "tag": "nah_es_0130", "label": 300, "template_index": 4}
+{"text": "Explícame en español «Keinopa kichijke».", "tag": "nah_es_0131", "label": 301, "template_index": 4}
+{"text": "Explícame en español «Mokamoui».", "tag": "nah_es_0132", "label": 302, "template_index": 4}
+{"text": "Explícame en español «tekuani».", "tag": "nah_es_0133", "label": 303, "template_index": 4}
+{"text": "Explícame en español «se kajón».", "tag": "nah_es_0134", "label": 304, "template_index": 4}
+{"text": "Explícame en español «noponi itstok».", "tag": "nah_es_0135", "label": 305, "template_index": 4}
+{"text": "Explícame en español «mila».", "tag": "nah_es_0136", "label": 306, "template_index": 4}
+{"text": "Explícame en español «Kuali ta tiualajki».", "tag": "nah_es_0137", "label": 307, "template_index": 4}
+{"text": "Explícame en español «tlaayajtok».", "tag": "nah_es_0138", "label": 308, "template_index": 4}
+{"text": "Explícame en español «Imojuanti intekitise».", "tag": "nah_es_0139", "label": 309, "template_index": 4}
+{"text": "Explícame en español «Kiijtouaj, pero kien sabe tla neli».", "tag": "nah_es_0140", "label": 310, "template_index": 4}
+{"text": "Explícame en español «Ken nopa elki».", "tag": "nah_es_0141", "label": 311, "template_index": 4}
+{"text": "Explícame en español «Axkana ka yato».", "tag": "nah_es_0142", "label": 312, "template_index": 4}
+{"text": "Explícame en español «Inijuanti kejní mayo, inijuanti tlayij, tlayij».", "tag": "nah_es_0143", "label": 313, "template_index": 4}
+{"text": "Explícame en español «Ya nepa kipachanito atitla».", "tag": "nah_es_0144", "label": 314, "template_index": 4}
+{"text": "Explícame en español «Kena, nomponi tiitstose kuali».", "tag": "nah_es_0145", "label": 315, "template_index": 4}
+{"text": "Explícame en español «Na niya nijkuiti atl».", "tag": "nah_es_0146", "label": 316, "template_index": 4}
+{"text": "Explícame en español «mosentilijke».", "tag": "nah_es_0147", "label": 317, "template_index": 4}
+{"text": "Explícame en español «Teipa kualanke».", "tag": "nah_es_0148", "label": 318, "template_index": 4}
+{"text": "Explícame en español «Timiyake tiitstoke».", "tag": "nah_es_0149", "label": 319, "template_index": 4}
+{"text": "Explícame en español «Noponi tlami nopa kuento».", "tag": "nah_es_0150", "label": 320, "template_index": 4}
+{"text": "Explícame en español «Ikuitlapa tlejkok uan kiitskitok kuali».", "tag": "nah_es_0151", "label": 321, "template_index": 4}
+{"text": "Explícame en español «Pero nama pero nama tojuanti tiitstose nikani».", "tag": "nah_es_0152", "label": 322, "template_index": 4}
+{"text": "Explícame en español «pajke».", "tag": "nah_es_0153", "label": 323, "template_index": 4}
+{"text": "Explícame en español «Ayojkana ya ne titlakuas».", "tag": "nah_es_0154", "label": 324, "template_index": 4}
+{"text": "Explícame en español «eltok atl».", "tag": "nah_es_0155", "label": 325, "template_index": 4}
+{"text": "Explícame en español «Noponi kitlanki».", "tag": "nah_es_0156", "label": 326, "template_index": 4}
+{"text": "Explícame en español «uajkaya».", "tag": "nah_es_0157", "label": 327, "template_index": 4}
+{"text": "Explícame en español «nochipayok».", "tag": "nah_es_0158", "label": 328, "template_index": 4}
+{"text": "Explícame en español «eltó».", "tag": "nah_es_0159", "label": 329, "template_index": 4}
+{"text": "Explícame en español «Sekinok tlamantli axkikua».", "tag": "nah_es_0160", "label": 330, "template_index": 4}
+{"text": "Explícame en español «ayajatl uetsi».", "tag": "nah_es_0161", "label": 331, "template_index": 4}
+{"text": "Explícame en español «Tlanki nopa kuentos».", "tag": "nah_es_0162", "label": 332, "template_index": 4}
+{"text": "Explícame en español «Kena niitsto».", "tag": "nah_es_0163", "label": 333, "template_index": 4}
+{"text": "Explícame en español «Pero ueyi tepetl».", "tag": "nah_es_0164", "label": 334, "template_index": 4}
+{"text": "Explícame en español «Tiotlak ajsikoya».", "tag": "nah_es_0165", "label": 335, "template_index": 4}
+{"text": "Explícame en español «kuatitla».", "tag": "nah_es_0166", "label": 336, "template_index": 4}
+{"text": "Explícame en español «Kuali titekiti, ta tibuen Joven».", "tag": "nah_es_0167", "label": 337, "template_index": 4}
+{"text": "Explícame en español «Niyasa niajsiti nocha».", "tag": "nah_es_0168", "label": 338, "template_index": 4}
+{"text": "Explícame en español «Tlejkoj uajkapa».", "tag": "nah_es_0169", "label": 339, "template_index": 4}
+{"text": "Explícame en español «Uta, axoui para mochiuas».", "tag": "nah_es_0170", "label": 340, "template_index": 4}
+{"text": "Explícame en español «Nama nika niitstok».", "tag": "nah_es_0171", "label": 341, "template_index": 4}
+{"text": "Explícame en español «tlatlaneski».", "tag": "nah_es_0172", "label": 342, "template_index": 4}
+{"text": "Explícame en español «miyak atl».", "tag": "nah_es_0173", "label": 343, "template_index": 4}
+{"text": "Explícame en español «tochichi».", "tag": "nah_es_0174", "label": 344, "template_index": 4}

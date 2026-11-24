@@ -1,0 +1,33 @@
+{
+  "tags": [
+    "uv_saludo",
+    "uv_saludo_manana",
+    "uv_saludo_tarde",
+    "uv_saludo_noche",
+    "uv_preguntar_nombre",
+    "uv_estado_bien",
+    "uv_reciprocidad_bien",
+    "uv_preguntar_destino",
+    "uv_desear_buen_camino",
+    "uv_preguntar_estudio",
+    "uv_despedida",
+    "uv_aceptacion",
+    "inali_saludo_manana",
+    "inali_saludo_tarde",
+    "inali_saludo_noche",
+    "inali_recibir_bienvenida",
+    "inali_invitar_pasar",
+    "inali_buen_provecho",
+    "inali_pedir_permiso",
+    "inali_despedida",
+    "inali_agradecer_visita",
+    "axolotl_comprobar_veracidad",
+    "axolotl_recibir_regreso",
+    "axolotl_recibir_visita",
+    "axolotl_recibir_elogio",
+    "axolotl_avisar_salida",
+    "axolotl_anunciar_agua",
+    "axolotl_aceptar_trabajo",
+    "axolotl_aceptar_estancia"
+  ]
+}

@@ -1,0 +1,572 @@
+[
+  {
+    "texto": "Dime el equivalente de «pase usted» en náhuatl.",
+    "esperada": "es_nah_0006",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.1511220782995224
+  },
+  {
+    "texto": "Dime el equivalente de «con permiso; disculpe usted» en náhuatl.",
+    "esperada": "es_nah_0007",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.48517221212387085
+  },
+  {
+    "texto": "Dime el equivalente de «muchas gracias» en náhuatl.",
+    "esperada": "es_nah_0008",
+    "predicha": "es_nah_0010",
+    "puntuacion": 0.5761817693710327
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «vuelva pronto»?",
+    "esperada": "es_nah_0011",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.7004233598709106
+  },
+  {
+    "texto": "Dime el equivalente de «vuelva pronto» en náhuatl.",
+    "esperada": "es_nah_0011",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.8520921468734741
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «adiós; nos vemos»?",
+    "esperada": "es_nah_0013",
+    "predicha": "es_nah_0021",
+    "puntuacion": 0.6459318399429321
+  },
+  {
+    "texto": "Dime el equivalente de «adiós; nos vemos» en náhuatl.",
+    "esperada": "es_nah_0013",
+    "predicha": "es_nah_0021",
+    "puntuacion": 0.6708893179893494
+  },
+  {
+    "texto": "Dime el equivalente de «está bien» en náhuatl.",
+    "esperada": "es_nah_0019",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.26296770572662354
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «sí»?",
+    "esperada": "es_nah_0020",
+    "predicha": "es_nah_0109",
+    "puntuacion": 0.16354693472385406
+  },
+  {
+    "texto": "Dime el equivalente de «sí» en náhuatl.",
+    "esperada": "es_nah_0020",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.3581230938434601
+  },
+  {
+    "texto": "Dime el equivalente de «¿a dónde vas?» en náhuatl.",
+    "esperada": "es_nah_0022",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.7299861907958984
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «que te vaya bien»?",
+    "esperada": "es_nah_0025",
+    "predicha": "es_nah_0092",
+    "puntuacion": 0.4774010181427002
+  },
+  {
+    "texto": "Dime el equivalente de «que te vaya bien» en náhuatl.",
+    "esperada": "es_nah_0025",
+    "predicha": "es_nah_0012",
+    "puntuacion": 0.40683498978614807
+  },
+  {
+    "texto": "Dime el equivalente de «¿cómo estás?» en náhuatl.",
+    "esperada": "es_nah_0026",
+    "predicha": "es_nah_0114",
+    "puntuacion": 0.27536457777023315
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «vacío»?",
+    "esperada": "es_nah_0032",
+    "predicha": "es_nah_0068",
+    "puntuacion": 0.14818799495697021
+  },
+  {
+    "texto": "Dime el equivalente de «vacío» en náhuatl.",
+    "esperada": "es_nah_0032",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.27824437618255615
+  },
+  {
+    "texto": "Dime el equivalente de «se fueron» en náhuatl.",
+    "esperada": "es_nah_0034",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.46894797682762146
+  },
+  {
+    "texto": "Dime el equivalente de «un niño» en náhuatl.",
+    "esperada": "es_nah_0038",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.3922668695449829
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «puercos»?",
+    "esperada": "es_nah_0043",
+    "predicha": "es_nah_0157",
+    "puntuacion": 0.13249744474887848
+  },
+  {
+    "texto": "Dime el equivalente de «puercos» en náhuatl.",
+    "esperada": "es_nah_0043",
+    "predicha": "es_nah_0114",
+    "puntuacion": 0.27345067262649536
+  },
+  {
+    "texto": "Dime el equivalente de «quiso ir» en náhuatl.",
+    "esperada": "es_nah_0059",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.24962066113948822
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «Ellos trabajan»?",
+    "esperada": "es_nah_0060",
+    "predicha": "es_nah_0078",
+    "puntuacion": 0.5597867965698242
+  },
+  {
+    "texto": "Dime el equivalente de «Ellos trabajan» en náhuatl.",
+    "esperada": "es_nah_0060",
+    "predicha": "es_nah_0078",
+    "puntuacion": 0.6780989766120911
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «cerro»?",
+    "esperada": "es_nah_0062",
+    "predicha": "es_nah_0068",
+    "puntuacion": 0.11387326568365097
+  },
+  {
+    "texto": "Dime el equivalente de «cerro» en náhuatl.",
+    "esperada": "es_nah_0062",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.3701654374599457
+  },
+  {
+    "texto": "Dime el equivalente de «se preocupaba» en náhuatl.",
+    "esperada": "es_nah_0065",
+    "predicha": "es_nah_0104",
+    "puntuacion": 0.26010945439338684
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «De veras»?",
+    "esperada": "es_nah_0066",
+    "predicha": "es_nah_0138",
+    "puntuacion": 0.07788480073213577
+  },
+  {
+    "texto": "Dime el equivalente de «De veras» en náhuatl.",
+    "esperada": "es_nah_0066",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.3593100905418396
+  },
+  {
+    "texto": "Dime el equivalente de «Va así» en náhuatl.",
+    "esperada": "es_nah_0068",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.18085254728794098
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «están enojados»?",
+    "esperada": "es_nah_0074",
+    "predicha": "es_nah_0044",
+    "puntuacion": 0.9443556070327759
+  },
+  {
+    "texto": "Dime el equivalente de «están enojados» en náhuatl.",
+    "esperada": "es_nah_0074",
+    "predicha": "es_nah_0044",
+    "puntuacion": 0.9578718543052673
+  },
+  {
+    "texto": "Dime el equivalente de «otras cosas» en náhuatl.",
+    "esperada": "es_nah_0081",
+    "predicha": "es_nah_0114",
+    "puntuacion": 0.14378933608531952
+  },
+  {
+    "texto": "Dime el equivalente de «fue» en náhuatl.",
+    "esperada": "es_nah_0085",
+    "predicha": "es_nah_0114",
+    "puntuacion": 0.5290731191635132
+  },
+  {
+    "texto": "Dime el equivalente de «tuvo» en náhuatl.",
+    "esperada": "es_nah_0094",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.30509451031684875
+  },
+  {
+    "texto": "Dime el equivalente de «allí» en náhuatl.",
+    "esperada": "es_nah_0102",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.26469141244888306
+  },
+  {
+    "texto": "Dime el equivalente de «su esposa» en náhuatl.",
+    "esperada": "es_nah_0109",
+    "predicha": "es_nah_0114",
+    "puntuacion": 0.1589246541261673
+  },
+  {
+    "texto": "Dime el equivalente de «te buscamos» en náhuatl.",
+    "esperada": "es_nah_0111",
+    "predicha": "es_nah_0142",
+    "puntuacion": 0.3040720224380493
+  },
+  {
+    "texto": "Dime el equivalente de «Aquí está» en náhuatl.",
+    "esperada": "es_nah_0116",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.3222385346889496
+  },
+  {
+    "texto": "Dime el equivalente de «bebé» en náhuatl.",
+    "esperada": "es_nah_0118",
+    "predicha": "es_nah_0159",
+    "puntuacion": 0.6911240816116333
+  },
+  {
+    "texto": "Dime el equivalente de «No sé adónde se fue» en náhuatl.",
+    "esperada": "es_nah_0120",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.2695482671260834
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «te busqué»?",
+    "esperada": "es_nah_0124",
+    "predicha": "es_nah_0094",
+    "puntuacion": 0.15220727026462555
+  },
+  {
+    "texto": "Dime el equivalente de «te busqué» en náhuatl.",
+    "esperada": "es_nah_0124",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.31259530782699585
+  },
+  {
+    "texto": "Dime el equivalente de «Se secó todo» en náhuatl.",
+    "esperada": "es_nah_0125",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.24952413141727448
+  },
+  {
+    "texto": "Dime el equivalente de «aquí estaría» en náhuatl.",
+    "esperada": "es_nah_0127",
+    "predicha": "es_nah_0121",
+    "puntuacion": 0.3659394383430481
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «allí está»?",
+    "esperada": "es_nah_0132",
+    "predicha": "es_nah_0112",
+    "puntuacion": 0.31983011960983276
+  },
+  {
+    "texto": "Dime el equivalente de «es nublado» en náhuatl.",
+    "esperada": "es_nah_0135",
+    "predicha": "es_nah_0005",
+    "puntuacion": 0.19391264021396637
+  },
+  {
+    "texto": "Dime el equivalente de «Así pasó» en náhuatl.",
+    "esperada": "es_nah_0138",
+    "predicha": "es_nah_0159",
+    "puntuacion": 0.1428147256374359
+  },
+  {
+    "texto": "Dime el equivalente de «se juntaron» en náhuatl.",
+    "esperada": "es_nah_0144",
+    "predicha": "es_nah_0105",
+    "puntuacion": 0.6765863299369812
+  },
+  {
+    "texto": "Dime el equivalente de «había» en náhuatl.",
+    "esperada": "es_nah_0156",
+    "predicha": "nah_es_0007",
+    "puntuacion": 0.49817410111427307
+  },
+  {
+    "texto": "Dime el equivalente de «Otras cosas no las come» en náhuatl.",
+    "esperada": "es_nah_0157",
+    "predicha": "es_nah_0119",
+    "puntuacion": 0.8868473172187805
+  },
+  {
+    "texto": "En náhuatl de la Huasteca, ¿cómo expreso «esclareció»?",
+    "esperada": "es_nah_0169",
+    "predicha": "es_nah_0068",
+    "puntuacion": 0.13751371204853058
+  },
+  {
+    "texto": "Dime el equivalente de «esclareció» en náhuatl.",
+    "esperada": "es_nah_0169",
+    "predicha": "es_nah_0001",
+    "puntuacion": 0.4231693148612976
+  },
+  {
+    "texto": "Dime el equivalente de «nuestro perro» en náhuatl.",
+    "esperada": "es_nah_0171",
+    "predicha": "es_nah_0114",
+    "puntuacion": 0.5192381143569946
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Mah cualli teotlac», ¿qué quiere decir?",
+    "esperada": "nah_es_0003",
+    "predicha": "nah_es_0002",
+    "puntuacion": 0.7045212388038635
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Mah xipano», ¿qué quiere decir?",
+    "esperada": "nah_es_0006",
+    "predicha": "es_nah_0045",
+    "puntuacion": 0.6559675335884094
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Mah xinechtlahpopolhui», ¿qué quiere decir?",
+    "esperada": "nah_es_0007",
+    "predicha": "es_nah_0079",
+    "puntuacion": 0.4624107778072357
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Mah xitlacuacan cualli», ¿qué quiere decir?",
+    "esperada": "nah_es_0009",
+    "predicha": "nah_es_0006",
+    "puntuacion": 0.41478845477104187
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Tlazohcamati ipampa otitechitaco», ¿qué quiere decir?",
+    "esperada": "nah_es_0010",
+    "predicha": "es_nah_0051",
+    "puntuacion": 0.45983272790908813
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Icihuaca ximocuepa», ¿qué quiere decir?",
+    "esperada": "nah_es_0011",
+    "predicha": "es_nah_0003",
+    "puntuacion": 0.40534937381744385
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Mah cualli ohtli», ¿qué quiere decir?",
+    "esperada": "nah_es_0012",
+    "predicha": "nah_es_0007",
+    "puntuacion": 0.6656237244606018
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Timoitase», ¿qué quiere decir?",
+    "esperada": "nah_es_0013",
+    "predicha": "es_nah_0016",
+    "puntuacion": 0.5687487721443176
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Tonalti», ¿qué quiere decir?",
+    "esperada": "nah_es_0015",
+    "predicha": "es_nah_0075",
+    "puntuacion": 0.16706328094005585
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Kualtitok», ¿qué quiere decir?",
+    "esperada": "nah_es_0022",
+    "predicha": "nah_es_0031",
+    "puntuacion": 0.4217660427093506
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Timoittaseh», ¿qué quiere decir?",
+    "esperada": "nah_es_0024",
+    "predicha": "es_nah_0045",
+    "puntuacion": 0.4256076216697693
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Kualli niitztok», ¿qué quiere decir?",
+    "esperada": "nah_es_0030",
+    "predicha": "nah_es_0031",
+    "puntuacion": 0.39118459820747375
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «yajke», ¿qué quiere decir?",
+    "esperada": "nah_es_0037",
+    "predicha": "nah_es_0088",
+    "puntuacion": 0.8352536559104919
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «nepa yauij», ¿qué quiere decir?",
+    "esperada": "nah_es_0038",
+    "predicha": "es_nah_0018",
+    "puntuacion": 0.8307639360427856
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «pitsome», ¿qué quiere decir?",
+    "esperada": "nah_es_0046",
+    "predicha": "es_nah_0033",
+    "puntuacion": 0.3272508978843689
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «totolime», ¿qué quiere decir?",
+    "esperada": "nah_es_0051",
+    "predicha": "es_nah_0067",
+    "puntuacion": 0.2457408607006073
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «uajkajki», ¿qué quiere decir?",
+    "esperada": "nah_es_0053",
+    "predicha": "nah_es_0086",
+    "puntuacion": 0.5963042378425598
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «moteuiaj», ¿qué quiere decir?",
+    "esperada": "nah_es_0058",
+    "predicha": "es_nah_0105",
+    "puntuacion": 0.17754952609539032
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «kinejki yas», ¿qué quiere decir?",
+    "esperada": "nah_es_0062",
+    "predicha": "nah_es_0071",
+    "puntuacion": 0.6938011646270752
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «tepetl», ¿qué quiere decir?",
+    "esperada": "nah_es_0065",
+    "predicha": "es_nah_0019",
+    "puntuacion": 0.425392746925354
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Nelí», ¿qué quiere decir?",
+    "esperada": "nah_es_0069",
+    "predicha": "es_nah_0037",
+    "puntuacion": 0.33064913749694824
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «mojmostla», ¿qué quiere decir?",
+    "esperada": "nah_es_0070",
+    "predicha": "es_nah_0136",
+    "puntuacion": 0.9027414917945862
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «kualanij», ¿qué quiere decir?",
+    "esperada": "nah_es_0077",
+    "predicha": "nah_es_0047",
+    "puntuacion": 0.8275866508483887
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «tlapochina», ¿qué quiere decir?",
+    "esperada": "nah_es_0078",
+    "predicha": "es_nah_0037",
+    "puntuacion": 0.8321643471717834
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Eltó sintli», ¿qué quiere decir?",
+    "esperada": "nah_es_0082",
+    "predicha": "es_nah_0040",
+    "puntuacion": 0.18872840702533722
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Bueno, tlaskamati», ¿qué quiere decir?",
+    "esperada": "nah_es_0091",
+    "predicha": "nah_es_0054",
+    "puntuacion": 0.745193362236023
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Kuatitla nama noja», ¿qué quiere decir?",
+    "esperada": "nah_es_0094",
+    "predicha": "nah_es_0047",
+    "puntuacion": 0.4038889408111572
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «noponi», ¿qué quiere decir?",
+    "esperada": "nah_es_0105",
+    "predicha": "es_nah_0150",
+    "puntuacion": 0.5655825138092041
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «isiua», ¿qué quiere decir?",
+    "esperada": "nah_es_0112",
+    "predicha": "es_nah_0019",
+    "puntuacion": 0.41620782017707825
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «tlauel tlapetlani», ¿qué quiere decir?",
+    "esperada": "nah_es_0113",
+    "predicha": "es_nah_0055",
+    "puntuacion": 0.5911887288093567
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «timitstemouaj», ¿qué quiere decir?",
+    "esperada": "nah_es_0114",
+    "predicha": "es_nah_0048",
+    "puntuacion": 0.9149796962738037
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «kuanextli», ¿qué quiere decir?",
+    "esperada": "nah_es_0124",
+    "predicha": "nah_es_0112",
+    "puntuacion": 0.9054962992668152
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «nimitstemo», ¿qué quiere decir?",
+    "esperada": "nah_es_0127",
+    "predicha": "es_nah_0015",
+    "puntuacion": 0.24067722260951996
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Molini», ¿qué quiere decir?",
+    "esperada": "nah_es_0129",
+    "predicha": "es_nah_0053",
+    "puntuacion": 0.6487245559692383
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Mokamoui», ¿qué quiere decir?",
+    "esperada": "nah_es_0132",
+    "predicha": "nah_es_0020",
+    "puntuacion": 0.3157553970813751
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «noponi itstok», ¿qué quiere decir?",
+    "esperada": "nah_es_0135",
+    "predicha": "nah_es_0115",
+    "puntuacion": 0.49446165561676025
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «mila», ¿qué quiere decir?",
+    "esperada": "nah_es_0136",
+    "predicha": "es_nah_0133",
+    "puntuacion": 0.4453749656677246
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «eltó», ¿qué quiere decir?",
+    "esperada": "nah_es_0159",
+    "predicha": "es_nah_0019",
+    "puntuacion": 0.18460798263549805
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Pero ueyi tepetl», ¿qué quiere decir?",
+    "esperada": "nah_es_0164",
+    "predicha": "es_nah_0096",
+    "puntuacion": 0.7512572407722473
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «kuatitla», ¿qué quiere decir?",
+    "esperada": "nah_es_0166",
+    "predicha": "nah_es_0112",
+    "puntuacion": 0.9403212666511536
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «Uta, axoui para mochiuas», ¿qué quiere decir?",
+    "esperada": "nah_es_0170",
+    "predicha": "es_nah_0009",
+    "puntuacion": 0.26274579763412476
+  },
+  {
+    "texto": "En la lección de náhuatl aparece «tochichi», ¿qué quiere decir?",
+    "esperada": "nah_es_0174",
+    "predicha": "es_nah_0037",
+    "puntuacion": 0.848767101764679
+  }
+]

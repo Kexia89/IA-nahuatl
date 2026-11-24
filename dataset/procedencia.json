@@ -1,0 +1,4156 @@
+{
+  "fecha_consulta": "2026-09-15",
+  "fuentes": {
+    "inali": {
+      "titulo": "Prontuario de frases de cortesía: náhuatl de la Huasteca",
+      "institucion": "Instituto Nacional de Lenguas Indígenas",
+      "voz_acreditada": "Maximina Félix Allende",
+      "url": "https://site.inali.gob.mx/Micrositios/Prontuarios/nahuatlV.html",
+      "variante": "Huasteca; localidad y código ISO no especificados en este prontuario",
+      "ortografia": "Grafías del prontuario (cualli, tlazohcamati, etc.)",
+      "licencia": "No se identificó una licencia de datos. Solo expresiones breves de uso común; no se redistribuye el folleto."
+    },
+    "uv": {
+      "titulo": "Alfabeto Náhuatl, tema 3: Conversaciones",
+      "institucion": "Universidad Veracruzana",
+      "url": "https://www.uv.mx/celulaode/alfabeto-nahuatl/tema3.html",
+      "variante": "Huasteca; localidad y código ISO no especificados en la lección",
+      "ortografia": "Grafías de la sección Huasteca (k, w, h); se conservan diferencias internas de la fuente",
+      "licencia": "No se identificó una licencia de datos. Se utilizan expresiones breves de uso común, no se reproduce la lección completa.",
+      "nota": "Se excluyó la segunda versión de ¿A dónde vas?: el HTML la rotula Huasteca, pero sus formas coinciden con el bloque de Zongolica. No se corrigió por conjetura."
+    },
+    "axolotl": {
+      "titulo": "Axolotl, distribuido en Py-Elotl",
+      "institucion": "GIL-UNAM / Comunidad Elotl",
+      "url": "https://github.com/ElotlMX/py-elotl/blob/master/elotl/corpora/axolotl.csv",
+      "corpus": "https://axolotl-corpus.mx/",
+      "cita": "Gutierrez-Vasques, X., Sierra, G., y Pompa, I. H. (2016). Axolotl: a Web Accessible Parallel Corpus for Spanish-Nahuatl. LREC 2016.",
+      "articulo": "https://aclanthology.org/L16-1666/",
+      "variante": "Western Huasteca Nahuatl [nhw], según la columna de metadatos del corpus",
+      "documento": "Lo que relatan de antes (cuentos tének y nahuas de la huasteca)",
+      "ortografia": "Original de cada registro; no se regularizan préstamos ni alternancias gráficas",
+      "licencia": "El repositorio Py-Elotl publica MPL-2.0. Se conserva su licencia. No se afirma que esa licencia sustituya derechos de cada obra de origen.",
+      "sha256_csv_consultado": "ed8e85f560e78c43385f91ac99d08dee071183749bc1f1aa1b88f1b3a2530878",
+      "archivo_original_incluido_en_zip": false
+    }
+  },
+  "registros": [
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0001",
+      "frases": [
+        "inali_001"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0002",
+      "frases": [
+        "inali_002",
+        "uv_002"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0003",
+      "frases": [
+        "inali_003",
+        "uv_003"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0004",
+      "frases": [
+        "inali_004",
+        "uv_004"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0005",
+      "frases": [
+        "inali_005"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0006",
+      "frases": [
+        "inali_006"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0007",
+      "frases": [
+        "inali_007"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0008",
+      "frases": [
+        "inali_008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0009",
+      "frases": [
+        "inali_009"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0010",
+      "frases": [
+        "inali_010"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0011",
+      "frases": [
+        "inali_011"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0012",
+      "frases": [
+        "inali_012"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0013",
+      "frases": [
+        "inali_013"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0014",
+      "frases": [
+        "uv_001"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0015",
+      "frases": [
+        "uv_005"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0016",
+      "frases": [
+        "uv_006"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0017",
+      "frases": [
+        "uv_007"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0018",
+      "frases": [
+        "uv_008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0019",
+      "frases": [
+        "uv_009"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0020",
+      "frases": [
+        "uv_010"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0021",
+      "frases": [
+        "uv_011"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0022",
+      "frases": [
+        "uv_012"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0023",
+      "frases": [
+        "uv_013"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0024",
+      "frases": [
+        "uv_014"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0025",
+      "frases": [
+        "uv_015"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0026",
+      "frases": [
+        "uv_016"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0027",
+      "frases": [
+        "uv_017"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0028",
+      "frases": [
+        "uv_018"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0029",
+      "frases": [
+        "uv_019"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0030",
+      "frases": [
+        "uv_020"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0031",
+      "frases": [
+        "ax_00009"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0032",
+      "frases": [
+        "ax_00224"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0033",
+      "frases": [
+        "ax_00226"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0034",
+      "frases": [
+        "ax_00248"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0035",
+      "frases": [
+        "ax_00276"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0036",
+      "frases": [
+        "ax_00310"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0037",
+      "frases": [
+        "ax_00333"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0038",
+      "frases": [
+        "ax_00547"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0039",
+      "frases": [
+        "ax_00638"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0040",
+      "frases": [
+        "ax_00813"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0041",
+      "frases": [
+        "ax_00855"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0042",
+      "frases": [
+        "ax_00935"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0043",
+      "frases": [
+        "ax_01114"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0044",
+      "frases": [
+        "ax_01151"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0045",
+      "frases": [
+        "ax_01197"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0046",
+      "frases": [
+        "ax_01253"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0047",
+      "frases": [
+        "ax_01366"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0048",
+      "frases": [
+        "ax_01392"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0049",
+      "frases": [
+        "ax_01418"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0050",
+      "frases": [
+        "ax_01645"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0051",
+      "frases": [
+        "ax_01787"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0052",
+      "frases": [
+        "ax_01844"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0053",
+      "frases": [
+        "ax_02072"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0054",
+      "frases": [
+        "ax_02155"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0055",
+      "frases": [
+        "ax_02214"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0056",
+      "frases": [
+        "ax_02258"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0057",
+      "frases": [
+        "ax_02304"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0058",
+      "frases": [
+        "ax_02584"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0059",
+      "frases": [
+        "ax_02789"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0060",
+      "frases": [
+        "ax_02862"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0061",
+      "frases": [
+        "ax_02878"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0062",
+      "frases": [
+        "ax_02961"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0063",
+      "frases": [
+        "ax_02971"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0064",
+      "frases": [
+        "ax_03077"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0065",
+      "frases": [
+        "ax_03167"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0066",
+      "frases": [
+        "ax_03318"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0067",
+      "frases": [
+        "ax_03334"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0068",
+      "frases": [
+        "ax_03371"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0069",
+      "frases": [
+        "ax_03641"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0070",
+      "frases": [
+        "ax_03811"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0071",
+      "frases": [
+        "ax_03885"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0072",
+      "frases": [
+        "ax_03891"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0073",
+      "frases": [
+        "ax_03964"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0074",
+      "frases": [
+        "ax_04274"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0075",
+      "frases": [
+        "ax_04437"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0076",
+      "frases": [
+        "ax_04841"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0077",
+      "frases": [
+        "ax_04953"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0078",
+      "frases": [
+        "ax_05203"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0079",
+      "frases": [
+        "ax_05209"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0080",
+      "frases": [
+        "ax_05235"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0081",
+      "frases": [
+        "ax_05333"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0082",
+      "frases": [
+        "ax_05380"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0083",
+      "frases": [
+        "ax_05614"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0084",
+      "frases": [
+        "ax_05650"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0085",
+      "frases": [
+        "ax_05657"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0086",
+      "frases": [
+        "ax_05678"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0087",
+      "frases": [
+        "ax_05809"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0088",
+      "frases": [
+        "ax_05866"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0089",
+      "frases": [
+        "ax_06200"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0090",
+      "frases": [
+        "ax_06240"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0091",
+      "frases": [
+        "ax_06452"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0092",
+      "frases": [
+        "ax_06463"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0093",
+      "frases": [
+        "ax_06642"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0094",
+      "frases": [
+        "ax_06674"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0095",
+      "frases": [
+        "ax_07010"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0096",
+      "frases": [
+        "ax_07397"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0097",
+      "frases": [
+        "ax_07435"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0098",
+      "frases": [
+        "ax_07486"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0099",
+      "frases": [
+        "ax_07508"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0100",
+      "frases": [
+        "ax_07611"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0101",
+      "frases": [
+        "ax_07617"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0102",
+      "frases": [
+        "ax_07694"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0103",
+      "frases": [
+        "ax_07797"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0104",
+      "frases": [
+        "ax_07945"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0105",
+      "frases": [
+        "ax_08046"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0106",
+      "frases": [
+        "ax_08193"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0107",
+      "frases": [
+        "ax_08403"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0108",
+      "frases": [
+        "ax_08574"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0109",
+      "frases": [
+        "ax_08602"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0110",
+      "frases": [
+        "ax_08778"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0111",
+      "frases": [
+        "ax_08838"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0112",
+      "frases": [
+        "ax_08947"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0113",
+      "frases": [
+        "ax_08960"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0114",
+      "frases": [
+        "ax_09267"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0115",
+      "frases": [
+        "ax_09437"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0116",
+      "frases": [
+        "ax_09491"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0117",
+      "frases": [
+        "ax_09548"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0118",
+      "frases": [
+        "ax_09774"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0119",
+      "frases": [
+        "ax_09802"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0120",
+      "frases": [
+        "ax_09953"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0121",
+      "frases": [
+        "ax_09954"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0122",
+      "frases": [
+        "ax_10130"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0123",
+      "frases": [
+        "ax_10262"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0124",
+      "frases": [
+        "ax_10287"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0125",
+      "frases": [
+        "ax_10438"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0126",
+      "frases": [
+        "ax_10475"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0127",
+      "frases": [
+        "ax_10888"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0128",
+      "frases": [
+        "ax_10984"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0129",
+      "frases": [
+        "ax_11103"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0130",
+      "frases": [
+        "ax_11247"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0131",
+      "frases": [
+        "ax_11413"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0132",
+      "frases": [
+        "ax_11455"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0133",
+      "frases": [
+        "ax_11586"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0134",
+      "frases": [
+        "ax_11727"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0135",
+      "frases": [
+        "ax_12007"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0136",
+      "frases": [
+        "ax_12008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0137",
+      "frases": [
+        "ax_12417"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0138",
+      "frases": [
+        "ax_12460"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0139",
+      "frases": [
+        "ax_12664"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0140",
+      "frases": [
+        "ax_12779"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0141",
+      "frases": [
+        "ax_12957"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0142",
+      "frases": [
+        "ax_13006"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0143",
+      "frases": [
+        "ax_13008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0144",
+      "frases": [
+        "ax_13043"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0145",
+      "frases": [
+        "ax_13061"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0146",
+      "frases": [
+        "ax_13068"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0147",
+      "frases": [
+        "ax_13079"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0148",
+      "frases": [
+        "ax_13325"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0149",
+      "frases": [
+        "ax_13579"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0150",
+      "frases": [
+        "ax_13587"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0151",
+      "frases": [
+        "ax_13610"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0152",
+      "frases": [
+        "ax_13701"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0153",
+      "frases": [
+        "ax_13711"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0154",
+      "frases": [
+        "ax_13757"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0155",
+      "frases": [
+        "ax_13764"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0156",
+      "frases": [
+        "ax_13802"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0157",
+      "frases": [
+        "ax_13828"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0158",
+      "frases": [
+        "ax_13911"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0159",
+      "frases": [
+        "ax_13982"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0160",
+      "frases": [
+        "ax_14124"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0161",
+      "frases": [
+        "ax_14601"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0162",
+      "frases": [
+        "ax_14892"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0163",
+      "frases": [
+        "ax_14995"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0164",
+      "frases": [
+        "ax_15089"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0165",
+      "frases": [
+        "ax_15144"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0166",
+      "frases": [
+        "ax_15220"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0167",
+      "frases": [
+        "ax_15250"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0168",
+      "frases": [
+        "ax_15353"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0169",
+      "frases": [
+        "ax_15565"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0170",
+      "frases": [
+        "ax_15605"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "es_nah_0171",
+      "frases": [
+        "ax_15759"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0001",
+      "frases": [
+        "inali_001"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0002",
+      "frases": [
+        "inali_002"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0003",
+      "frases": [
+        "inali_003"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0004",
+      "frases": [
+        "inali_004"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0005",
+      "frases": [
+        "inali_005"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0006",
+      "frases": [
+        "inali_006"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0007",
+      "frases": [
+        "inali_007"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0008",
+      "frases": [
+        "inali_008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0009",
+      "frases": [
+        "inali_009"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0010",
+      "frases": [
+        "inali_010"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0011",
+      "frases": [
+        "inali_011"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0012",
+      "frases": [
+        "inali_012"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0013",
+      "frases": [
+        "inali_013"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0014",
+      "frases": [
+        "uv_001"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0015",
+      "frases": [
+        "uv_002"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0016",
+      "frases": [
+        "uv_003"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0017",
+      "frases": [
+        "uv_004"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0018",
+      "frases": [
+        "uv_005"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0019",
+      "frases": [
+        "uv_006"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0020",
+      "frases": [
+        "uv_007"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0021",
+      "frases": [
+        "uv_008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0022",
+      "frases": [
+        "uv_009"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0023",
+      "frases": [
+        "uv_010"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0024",
+      "frases": [
+        "uv_011"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0025",
+      "frases": [
+        "uv_012"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0026",
+      "frases": [
+        "uv_013"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0027",
+      "frases": [
+        "uv_014"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0028",
+      "frases": [
+        "uv_015"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0029",
+      "frases": [
+        "uv_016"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0030",
+      "frases": [
+        "uv_017"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0031",
+      "frases": [
+        "uv_018"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0032",
+      "frases": [
+        "uv_019"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0033",
+      "frases": [
+        "uv_020"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0034",
+      "frases": [
+        "ax_00009"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0035",
+      "frases": [
+        "ax_00224"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0036",
+      "frases": [
+        "ax_00226"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0037",
+      "frases": [
+        "ax_00248"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0038",
+      "frases": [
+        "ax_00276"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0039",
+      "frases": [
+        "ax_00310"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0040",
+      "frases": [
+        "ax_00333"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0041",
+      "frases": [
+        "ax_00547"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0042",
+      "frases": [
+        "ax_00638"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0043",
+      "frases": [
+        "ax_00813"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0044",
+      "frases": [
+        "ax_00855"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0045",
+      "frases": [
+        "ax_00935"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0046",
+      "frases": [
+        "ax_01114"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0047",
+      "frases": [
+        "ax_01151"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0048",
+      "frases": [
+        "ax_01197"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0049",
+      "frases": [
+        "ax_01253"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0050",
+      "frases": [
+        "ax_01366"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0051",
+      "frases": [
+        "ax_01392"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0052",
+      "frases": [
+        "ax_01418"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0053",
+      "frases": [
+        "ax_01645"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0054",
+      "frases": [
+        "ax_01787"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0055",
+      "frases": [
+        "ax_01844"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0056",
+      "frases": [
+        "ax_02072"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0057",
+      "frases": [
+        "ax_02155"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0058",
+      "frases": [
+        "ax_02214"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0059",
+      "frases": [
+        "ax_02258"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0060",
+      "frases": [
+        "ax_02304"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0061",
+      "frases": [
+        "ax_02584"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0062",
+      "frases": [
+        "ax_02789"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0063",
+      "frases": [
+        "ax_02862"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0064",
+      "frases": [
+        "ax_02878"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0065",
+      "frases": [
+        "ax_02961"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0066",
+      "frases": [
+        "ax_02971"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0067",
+      "frases": [
+        "ax_03077"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0068",
+      "frases": [
+        "ax_03167"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0069",
+      "frases": [
+        "ax_03318"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0070",
+      "frases": [
+        "ax_03334"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0071",
+      "frases": [
+        "ax_03371"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0072",
+      "frases": [
+        "ax_03641"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0073",
+      "frases": [
+        "ax_03811"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0074",
+      "frases": [
+        "ax_03885"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0075",
+      "frases": [
+        "ax_03891"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0076",
+      "frases": [
+        "ax_03964"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0077",
+      "frases": [
+        "ax_04274"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0078",
+      "frases": [
+        "ax_04437"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0079",
+      "frases": [
+        "ax_04841"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0080",
+      "frases": [
+        "ax_04953"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0081",
+      "frases": [
+        "ax_05203"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0082",
+      "frases": [
+        "ax_05209"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0083",
+      "frases": [
+        "ax_05235"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0084",
+      "frases": [
+        "ax_05333"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0085",
+      "frases": [
+        "ax_05380"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0086",
+      "frases": [
+        "ax_05614"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0087",
+      "frases": [
+        "ax_05650"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0088",
+      "frases": [
+        "ax_05657"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0089",
+      "frases": [
+        "ax_05678"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0090",
+      "frases": [
+        "ax_05809"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0091",
+      "frases": [
+        "ax_05866"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0092",
+      "frases": [
+        "ax_06200"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0093",
+      "frases": [
+        "ax_06240"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0094",
+      "frases": [
+        "ax_06452"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0095",
+      "frases": [
+        "ax_06463"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0096",
+      "frases": [
+        "ax_06642"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0097",
+      "frases": [
+        "ax_06674"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0098",
+      "frases": [
+        "ax_07010"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0099",
+      "frases": [
+        "ax_07397"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0100",
+      "frases": [
+        "ax_07435"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0101",
+      "frases": [
+        "ax_07486"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0102",
+      "frases": [
+        "ax_07508"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0103",
+      "frases": [
+        "ax_07611"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0104",
+      "frases": [
+        "ax_07617"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0105",
+      "frases": [
+        "ax_07694"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0106",
+      "frases": [
+        "ax_07797"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0107",
+      "frases": [
+        "ax_07945"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0108",
+      "frases": [
+        "ax_08046"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0109",
+      "frases": [
+        "ax_08193"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0110",
+      "frases": [
+        "ax_08403"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0111",
+      "frases": [
+        "ax_08574"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0112",
+      "frases": [
+        "ax_08602"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0113",
+      "frases": [
+        "ax_08778"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0114",
+      "frases": [
+        "ax_08838"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0115",
+      "frases": [
+        "ax_08947"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0116",
+      "frases": [
+        "ax_08960"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0117",
+      "frases": [
+        "ax_09267"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0118",
+      "frases": [
+        "ax_09437"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0119",
+      "frases": [
+        "ax_09491"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0120",
+      "frases": [
+        "ax_09548"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0121",
+      "frases": [
+        "ax_09774"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0122",
+      "frases": [
+        "ax_09802"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0123",
+      "frases": [
+        "ax_09953"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0124",
+      "frases": [
+        "ax_09954"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0125",
+      "frases": [
+        "ax_10130"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0126",
+      "frases": [
+        "ax_10262"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0127",
+      "frases": [
+        "ax_10287"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0128",
+      "frases": [
+        "ax_10438"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0129",
+      "frases": [
+        "ax_10475"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0130",
+      "frases": [
+        "ax_10888"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0131",
+      "frases": [
+        "ax_10984"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0132",
+      "frases": [
+        "ax_11103"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0133",
+      "frases": [
+        "ax_11247"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0134",
+      "frases": [
+        "ax_11413"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0135",
+      "frases": [
+        "ax_11455"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0136",
+      "frases": [
+        "ax_11586"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0137",
+      "frases": [
+        "ax_11727"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0138",
+      "frases": [
+        "ax_12007"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0139",
+      "frases": [
+        "ax_12008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0140",
+      "frases": [
+        "ax_12417"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0141",
+      "frases": [
+        "ax_12460"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0142",
+      "frases": [
+        "ax_12664"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0143",
+      "frases": [
+        "ax_12779"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0144",
+      "frases": [
+        "ax_12957"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0145",
+      "frases": [
+        "ax_13006"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0146",
+      "frases": [
+        "ax_13008"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0147",
+      "frases": [
+        "ax_13043"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0148",
+      "frases": [
+        "ax_13061"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0149",
+      "frases": [
+        "ax_13068"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0150",
+      "frases": [
+        "ax_13079"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0151",
+      "frases": [
+        "ax_13325"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0152",
+      "frases": [
+        "ax_13579"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0153",
+      "frases": [
+        "ax_13587"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0154",
+      "frases": [
+        "ax_13610"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0155",
+      "frases": [
+        "ax_13701"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0156",
+      "frases": [
+        "ax_13711"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0157",
+      "frases": [
+        "ax_13757"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0158",
+      "frases": [
+        "ax_13764"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0159",
+      "frases": [
+        "ax_13802"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0160",
+      "frases": [
+        "ax_13828"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0161",
+      "frases": [
+        "ax_13911"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0162",
+      "frases": [
+        "ax_13982"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0163",
+      "frases": [
+        "ax_14124"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0164",
+      "frases": [
+        "ax_14601"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0165",
+      "frases": [
+        "ax_14892"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0166",
+      "frases": [
+        "ax_14995"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0167",
+      "frases": [
+        "ax_15089"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0168",
+      "frases": [
+        "ax_15144"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0169",
+      "frases": [
+        "ax_15220"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0170",
+      "frases": [
+        "ax_15250"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0171",
+      "frases": [
+        "ax_15353"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0172",
+      "frases": [
+        "ax_15565"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0173",
+      "frases": [
+        "ax_15605"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_aprender_nahuatl.json",
+      "tag": "nah_es_0174",
+      "frases": [
+        "ax_15759"
+      ],
+      "tipo": "consulta_didactica",
+      "patterns": "Plantillas sintéticas en español; no son consultas recogidas de usuarios.",
+      "responses": "Equivalencias del registro; glosa contextual, no definición exhaustiva.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_saludo",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_saludo_manana",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_saludo_tarde",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_saludo_noche",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_preguntar_nombre",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Personaje ficticio fijo: Juana. No es la identidad del usuario ni un dato de una persona real.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_estado_bien",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_reciprocidad_bien",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_preguntar_destino",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Escenario ficticio: una persona se dirige al tianguis; el bot no afirma realizar viajes reales.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_desear_buen_camino",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_preguntar_estudio",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Escenario ficticio de dos estudiantes. Pregunta y respuesta documentadas en la misma conversación.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_despedida",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "uv_aceptacion",
+      "fuente": "uv",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Solo acuse de recibo conversacional; no implica ejecutar una acción ni confirmar consentimiento operativo.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_saludo_manana",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_saludo_tarde",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_saludo_noche",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_recibir_bienvenida",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_invitar_pasar",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_buen_provecho",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_pedir_permiso",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Contexto limitado a pedir paso o entrada; no usar como respuesta general a una disculpa por un daño.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_despedida",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "inali_agradecer_visita",
+      "fuente": "inali",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Emparejamiento editorial de expresiones documentadas; no diálogo espontáneo grabado.",
+      "validacion_hablante": false
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_comprobar_veracidad",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Pregunta de comprobación y respuesta afirmativa ensambladas. Afirmación de ejemplo, no verificación de hechos externos.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        9254,
+        15687
+      ],
+      "registros_responses": [
+        4734
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_recibir_regreso",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Respuesta breve de agradecimiento. Se conserva el préstamo español «Bueno».",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        11727
+      ],
+      "registros_responses": [
+        5866
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_recibir_visita",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Intercambio de cortesía ensamblado.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        813
+      ],
+      "registros_responses": [
+        5866
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_recibir_elogio",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Intercambio de cortesía ensamblado; se conserva «Buen Joven» como aparece en el cuento.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        15089
+      ],
+      "registros_responses": [
+        5866
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_avisar_salida",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Práctica entre personas cercanas: «¡Vete!» es imperativo directo, no una fórmula universal de cortesía.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        6463,
+        15144
+      ],
+      "registros_responses": [
+        2304
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_anunciar_agua",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Acuse de recibo: «Voy a traer agua» / «Sí». No implica una acción física del sistema.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        13008
+      ],
+      "registros_responses": [
+        4734
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_aceptar_trabajo",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Práctica sobre planes de trabajo con respuesta afirmativa.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        12008
+      ],
+      "registros_responses": [
+        4734
+      ],
+      "variante_iso": "nhw"
+    },
+    {
+      "archivo": "intents_conversaciones_nahuatl.json",
+      "tag": "axolotl_aceptar_estancia",
+      "fuente": "axolotl",
+      "tipo": "dialogo_de_practica",
+      "estado": "ensamblado_de_expresiones_documentadas",
+      "nota": "Acuerdo con una propuesta de estancia; ejemplo ficticio.",
+      "validacion_hablante": false,
+      "registros_patterns": [
+        13006
+      ],
+      "registros_responses": [
+        4734
+      ],
+      "variante_iso": "nhw"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "uv_saludo": [
+    "Piyali"
+  ],
+  "uv_saludo_manana": [
+    "Tonalti"
+  ],
+  "uv_saludo_tarde": [
+    "Tiotlakilti"
+  ],
+  "uv_saludo_noche": [
+    "Tlapoyawalti"
+  ],
+  "uv_preguntar_nombre": [
+    "Nah notoka Juana"
+  ],
+  "uv_estado_bien": [
+    "Kualli niitztok"
+  ],
+  "uv_reciprocidad_bien": [
+    "Kualtitok"
+  ],
+  "uv_preguntar_destino": [
+    "Niyah tiankis"
+  ],
+  "uv_desear_buen_camino": [
+    "Kualli xiyah"
+  ],
+  "uv_preguntar_estudio": [
+    "Kena, nikan nimomachtia"
+  ],
+  "uv_despedida": [
+    "Timoittaseh"
+  ],
+  "uv_aceptacion": [
+    "Kualtitok"
+  ],
+  "inali_saludo_manana": [
+    "Mah cualli tonalli"
+  ],
+  "inali_saludo_tarde": [
+    "Mah cualli teotlac"
+  ],
+  "inali_saludo_noche": [
+    "Mah cualli yohualli"
+  ],
+  "inali_recibir_bienvenida": [
+    "Tlazohcamati miyac"
+  ],
+  "inali_invitar_pasar": [
+    "Tlazohcamati miyac"
+  ],
+  "inali_buen_provecho": [
+    "Tlazohcamati miyac"
+  ],
+  "inali_pedir_permiso": [
+    "Mah xipano"
+  ],
+  "inali_despedida": [
+    "Timoitase"
+  ],
+  "inali_agradecer_visita": [
+    "Timoitase"
+  ],
+  "axolotl_comprobar_veracidad": [
+    "Kena"
+  ],
+  "axolotl_recibir_regreso": [
+    "Bueno, tlaskamati"
+  ],
+  "axolotl_recibir_visita": [
+    "Bueno, tlaskamati"
+  ],
+  "axolotl_recibir_elogio": [
+    "Bueno, tlaskamati"
+  ],
+  "axolotl_avisar_salida": [
+    "¡Xiya!"
+  ],
+  "axolotl_anunciar_agua": [
+    "Kena"
+  ],
+  "axolotl_aceptar_trabajo": [
+    "Kena"
+  ],
+  "axolotl_aceptar_estancia": [
+    "Kena"
+  ]
+}

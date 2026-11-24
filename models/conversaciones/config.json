@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "modo": "conversaciones",
+  "fecha_entrenamiento": "2026-09-15T20:44:04.577442+00:00",
+  "umbral": 0.6,
+  "margen": 0.15,
+  "sha256": {
+    "modelo.h5": "abb257af35cffced09fe47857b5fa2f963fce4dd544bf23f3f93683360ee2a69",
+    "tokenizador.json": "c723433d240bd1cdaad60f28e2db2979a286acaa5619dd999076035e8177f9a3",
+    "etiquetas.json": "79874dcb4cefa18d412ca689846192ea5ca3db5cf3979552adca5d7b2790e131",
+    "respuestas.json": "99dc1242339244680aed0fa7bf5b7c3f8fe168188f8086fed60ae9554a31f805"
+  },
+  "test_accuracy": null
+}

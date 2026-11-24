@@ -1,0 +1,278 @@
+{
+  "intents": [
+    {
+      "tag": "uv_saludo",
+      "patterns": [
+        "Hola",
+        "Hola Juana",
+        "Hola Pedro"
+      ],
+      "responses": [
+        "Hola"
+      ]
+    },
+    {
+      "tag": "uv_saludo_manana",
+      "patterns": [
+        "Buenos días"
+      ],
+      "responses": [
+        "Buenos días"
+      ]
+    },
+    {
+      "tag": "uv_saludo_tarde",
+      "patterns": [
+        "Buenas tardes"
+      ],
+      "responses": [
+        "Buenas tardes"
+      ]
+    },
+    {
+      "tag": "uv_saludo_noche",
+      "patterns": [
+        "Buenas noches"
+      ],
+      "responses": [
+        "Buenas noches"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_nombre",
+      "patterns": [
+        "¿Cómo te llamas?",
+        "Hola, ¿cómo te llamas?"
+      ],
+      "responses": [
+        "Yo me llamo Juana"
+      ]
+    },
+    {
+      "tag": "uv_estado_bien",
+      "patterns": [
+        "¿Cómo estás?",
+        "Hola Juana, ¿cómo estás?"
+      ],
+      "responses": [
+        "Estoy bien"
+      ]
+    },
+    {
+      "tag": "uv_reciprocidad_bien",
+      "patterns": [
+        "Estoy bien",
+        "También estoy bien"
+      ],
+      "responses": [
+        "Está bien"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_destino",
+      "patterns": [
+        "¿A dónde vas?"
+      ],
+      "responses": [
+        "Voy al tianguis"
+      ]
+    },
+    {
+      "tag": "uv_desear_buen_camino",
+      "patterns": [
+        "Voy al tianguis",
+        "Voy a mi milpa"
+      ],
+      "responses": [
+        "Que te vaya bien"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_estudio",
+      "patterns": [
+        "¿Aquí estudias?"
+      ],
+      "responses": [
+        "Sí, aquí estudio"
+      ]
+    },
+    {
+      "tag": "uv_despedida",
+      "patterns": [
+        "Nos veremos luego",
+        "Nos encontraremos luego",
+        "Nos vemos",
+        "Que te vaya bien"
+      ],
+      "responses": [
+        "Nos vemos"
+      ]
+    },
+    {
+      "tag": "uv_aceptacion",
+      "patterns": [
+        "Sí"
+      ],
+      "responses": [
+        "Está bien"
+      ]
+    },
+    {
+      "tag": "inali_saludo_manana",
+      "patterns": [
+        "Buenos días"
+      ],
+      "responses": [
+        "Buenos días"
+      ]
+    },
+    {
+      "tag": "inali_saludo_tarde",
+      "patterns": [
+        "Buenas tardes"
+      ],
+      "responses": [
+        "Buenas tardes"
+      ]
+    },
+    {
+      "tag": "inali_saludo_noche",
+      "patterns": [
+        "Buenas noches"
+      ],
+      "responses": [
+        "Buenas noches"
+      ]
+    },
+    {
+      "tag": "inali_recibir_bienvenida",
+      "patterns": [
+        "Bienvenidos"
+      ],
+      "responses": [
+        "Muchas gracias"
+      ]
+    },
+    {
+      "tag": "inali_invitar_pasar",
+      "patterns": [
+        "Pase usted"
+      ],
+      "responses": [
+        "Muchas gracias"
+      ]
+    },
+    {
+      "tag": "inali_buen_provecho",
+      "patterns": [
+        "Buen provecho"
+      ],
+      "responses": [
+        "Muchas gracias"
+      ]
+    },
+    {
+      "tag": "inali_pedir_permiso",
+      "patterns": [
+        "Con permiso; disculpe usted"
+      ],
+      "responses": [
+        "Pase usted"
+      ]
+    },
+    {
+      "tag": "inali_despedida",
+      "patterns": [
+        "Adiós; nos vemos",
+        "Vuelva pronto",
+        "Que te vaya bien"
+      ],
+      "responses": [
+        "Nos vemos"
+      ]
+    },
+    {
+      "tag": "inali_agradecer_visita",
+      "patterns": [
+        "Muchas gracias por su visita"
+      ],
+      "responses": [
+        "Nos vemos"
+      ]
+    },
+    {
+      "tag": "axolotl_comprobar_veracidad",
+      "patterns": [
+        "¿De veras?",
+        "¿Y es cierto eso?"
+      ],
+      "responses": [
+        "Sí"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_regreso",
+      "patterns": [
+        "Está bien que regresaste"
+      ],
+      "responses": [
+        "Bueno, gracias"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_visita",
+      "patterns": [
+        "Gracias que viniste"
+      ],
+      "responses": [
+        "Bueno, gracias"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_elogio",
+      "patterns": [
+        "Trabajas bien, tú eres un Buen Joven"
+      ],
+      "responses": [
+        "Bueno, gracias"
+      ]
+    },
+    {
+      "tag": "axolotl_avisar_salida",
+      "patterns": [
+        "Yo ya me voy",
+        "Me voy para llegar a mi casa"
+      ],
+      "responses": [
+        "¡Vete!"
+      ]
+    },
+    {
+      "tag": "axolotl_anunciar_agua",
+      "patterns": [
+        "Yo voy a traer agua"
+      ],
+      "responses": [
+        "Sí"
+      ]
+    },
+    {
+      "tag": "axolotl_aceptar_trabajo",
+      "patterns": [
+        "Ustedes van a trabajar"
+      ],
+      "responses": [
+        "Sí"
+      ]
+    },
+    {
+      "tag": "axolotl_aceptar_estancia",
+      "patterns": [
+        "Sí, allí vamos a estar bien"
+      ],
+      "responses": [
+        "Sí"
+      ]
+    }
+  ]
+}

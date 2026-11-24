@@ -1,0 +1,87 @@
+{
+  "intents": [
+    {
+      "tag": "inali_saludo_manana",
+      "patterns": [
+        "Mah cualli tonalli"
+      ],
+      "responses": [
+        "Mah cualli tonalli"
+      ]
+    },
+    {
+      "tag": "inali_saludo_tarde",
+      "patterns": [
+        "Mah cualli teotlac"
+      ],
+      "responses": [
+        "Mah cualli teotlac"
+      ]
+    },
+    {
+      "tag": "inali_saludo_noche",
+      "patterns": [
+        "Mah cualli yohualli"
+      ],
+      "responses": [
+        "Mah cualli yohualli"
+      ]
+    },
+    {
+      "tag": "inali_recibir_bienvenida",
+      "patterns": [
+        "Mah cualli xihualacan"
+      ],
+      "responses": [
+        "Tlazohcamati miyac"
+      ]
+    },
+    {
+      "tag": "inali_invitar_pasar",
+      "patterns": [
+        "Mah xipano"
+      ],
+      "responses": [
+        "Tlazohcamati miyac"
+      ]
+    },
+    {
+      "tag": "inali_buen_provecho",
+      "patterns": [
+        "Mah xitlacuacan cualli"
+      ],
+      "responses": [
+        "Tlazohcamati miyac"
+      ]
+    },
+    {
+      "tag": "inali_pedir_permiso",
+      "patterns": [
+        "Mah xinechtlahpopolhui"
+      ],
+      "responses": [
+        "Mah xipano"
+      ]
+    },
+    {
+      "tag": "inali_despedida",
+      "patterns": [
+        "Timoitase",
+        "Icihuaca ximocuepa",
+        "Mah cualli ohtli"
+      ],
+      "responses": [
+        "Timoitase"
+      ]
+    },
+    {
+      "tag": "inali_agradecer_visita",
+      "patterns": [
+        "Tlazohcamati ipampa otitechitaco"
+      ],
+      "responses": [
+        "Timoitase"
+      ]
+    }
+  ]
+}

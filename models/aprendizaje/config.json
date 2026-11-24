@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "modo": "aprendizaje",
+  "fecha_entrenamiento": "2026-09-15T20:43:54.145744+00:00",
+  "umbral": 0.6,
+  "margen": 0.15,
+  "sha256": {
+    "modelo.h5": "0c4497e81121c6ebf0a0724f61156559a8a1c984748ff85af14a6ed5315fee5b",
+    "tokenizador.json": "9eb221fc5b34c882491c3d5ec48770327cac41f473ae9d72c1f464d8d34430fa",
+    "etiquetas.json": "a706116881cf4100bb5a4476ece0a9c78fe6423b7eade149c5a8db79e7d2c7cf",
+    "respuestas.json": "16243922f1ceb6d2388f1f6bf8c4f19c0615b566116c60e221344982b265b3b2"
+  },
+  "test_accuracy": 0.815891444683075
+}

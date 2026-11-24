@@ -1,0 +1,278 @@
+{
+  "intents": [
+    {
+      "tag": "uv_saludo",
+      "patterns": [
+        "Piyali",
+        "Piyali Juana",
+        "Piyali Pedro"
+      ],
+      "responses": [
+        "Piyali"
+      ]
+    },
+    {
+      "tag": "uv_saludo_manana",
+      "patterns": [
+        "Tonalti"
+      ],
+      "responses": [
+        "Tonalti"
+      ]
+    },
+    {
+      "tag": "uv_saludo_tarde",
+      "patterns": [
+        "Tiotlakilti"
+      ],
+      "responses": [
+        "Tiotlakilti"
+      ]
+    },
+    {
+      "tag": "uv_saludo_noche",
+      "patterns": [
+        "Tlapoyawalti"
+      ],
+      "responses": [
+        "Tlapoyawalti"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_nombre",
+      "patterns": [
+        "Tlen motoka?",
+        "Piyali, tlen motoka?"
+      ],
+      "responses": [
+        "Nah notoka Juana"
+      ]
+    },
+    {
+      "tag": "uv_estado_bien",
+      "patterns": [
+        "Kenihkatzah tiitztok?",
+        "Piyali Juana, kenihkatzah tiitztok?"
+      ],
+      "responses": [
+        "Kualli niitztok"
+      ]
+    },
+    {
+      "tag": "uv_reciprocidad_bien",
+      "patterns": [
+        "Kualli niitztok",
+        "Nohkia kualli niitztok"
+      ],
+      "responses": [
+        "Kualtitok"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_destino",
+      "patterns": [
+        "Kanke tiyah?"
+      ],
+      "responses": [
+        "Niyah tiankis"
+      ]
+    },
+    {
+      "tag": "uv_desear_buen_camino",
+      "patterns": [
+        "Niyah tiankis",
+        "Niyah nomilla"
+      ],
+      "responses": [
+        "Kualli xiyah"
+      ]
+    },
+    {
+      "tag": "uv_preguntar_estudio",
+      "patterns": [
+        "Nikan timomachtia?"
+      ],
+      "responses": [
+        "Kena, nikan nimomachtia"
+      ]
+    },
+    {
+      "tag": "uv_despedida",
+      "patterns": [
+        "Timoitasehyok",
+        "Timopantisehyok",
+        "Timoittaseh",
+        "Kualli xiyah"
+      ],
+      "responses": [
+        "Timoittaseh"
+      ]
+    },
+    {
+      "tag": "uv_aceptacion",
+      "patterns": [
+        "Kena"
+      ],
+      "responses": [
+        "Kualtitok"
+      ]
+    },
+    {
+      "tag": "inali_saludo_manana",
+      "patterns": [
+        "Mah cualli tonalli"
+      ],
+      "responses": [
+        "Mah cualli tonalli"
+      ]
+    },
+    {
+      "tag": "inali_saludo_tarde",
+      "patterns": [
+        "Mah cualli teotlac"
+      ],
+      "responses": [
+        "Mah cualli teotlac"
+      ]
+    },
+    {
+      "tag": "inali_saludo_noche",
+      "patterns": [
+        "Mah cualli yohualli"
+      ],
+      "responses": [
+        "Mah cualli yohualli"
+      ]
+    },
+    {
+      "tag": "inali_recibir_bienvenida",
+      "patterns": [
+        "Mah cualli xihualacan"
+      ],
+      "responses": [
+        "Tlazohcamati miyac"
+      ]
+    },
+    {
+      "tag": "inali_invitar_pasar",
+      "patterns": [
+        "Mah xipano"
+      ],
+      "responses": [
+        "Tlazohcamati miyac"
+      ]
+    },
+    {
+      "tag": "inali_buen_provecho",
+      "patterns": [
+        "Mah xitlacuacan cualli"
+      ],
+      "responses": [
+        "Tlazohcamati miyac"
+      ]
+    },
+    {
+      "tag": "inali_pedir_permiso",
+      "patterns": [
+        "Mah xinechtlahpopolhui"
+      ],
+      "responses": [
+        "Mah xipano"
+      ]
+    },
+    {
+      "tag": "inali_despedida",
+      "patterns": [
+        "Timoitase",
+        "Icihuaca ximocuepa",
+        "Mah cualli ohtli"
+      ],
+      "responses": [
+        "Timoitase"
+      ]
+    },
+    {
+      "tag": "inali_agradecer_visita",
+      "patterns": [
+        "Tlazohcamati ipampa otitechitaco"
+      ],
+      "responses": [
+        "Timoitase"
+      ]
+    },
+    {
+      "tag": "axolotl_comprobar_veracidad",
+      "patterns": [
+        "¿Nelí?",
+        "¿Uan melauak?"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_regreso",
+      "patterns": [
+        "Kuali ta tiualajki"
+      ],
+      "responses": [
+        "Bueno, tlaskamati"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_visita",
+      "patterns": [
+        "Tlaskamati para tiualajki"
+      ],
+      "responses": [
+        "Bueno, tlaskamati"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_elogio",
+      "patterns": [
+        "Kuali titekiti, ta tibuen Joven"
+      ],
+      "responses": [
+        "Bueno, tlaskamati"
+      ]
+    },
+    {
+      "tag": "axolotl_avisar_salida",
+      "patterns": [
+        "Na ya niya",
+        "Niyasa niajsiti nocha"
+      ],
+      "responses": [
+        "¡Xiya!"
+      ]
+    },
+    {
+      "tag": "axolotl_anunciar_agua",
+      "patterns": [
+        "Na niya nijkuiti atl"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    },
+    {
+      "tag": "axolotl_aceptar_trabajo",
+      "patterns": [
+        "Imojuanti intekitise"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    },
+    {
+      "tag": "axolotl_aceptar_estancia",
+      "patterns": [
+        "Kena, nomponi tiitstose kuali"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    }
+  ]
+}

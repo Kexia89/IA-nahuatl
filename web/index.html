@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#164d40">
+  <title>Náhuatl · Espacio de práctica</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <main class="workspace">
+    <aside class="sidebar" aria-label="Configuración de práctica">
+      <div class="brand-mark" aria-hidden="true">N<span>·</span></div>
+      <p class="eyebrow">HUASTECA</p>
+      <h1>Un espacio<br> para practicar<br> <em>náhuatl.</em></h1>
+      <p class="intro">Explora las expresiones y respuestas de tu modelo, una pregunta a la vez.</p>
+
+      <section class="mode-panel" aria-labelledby="mode-title">
+        <label id="mode-title" for="mode">¿Qué quieres practicar?</label>
+        <select id="mode">
+          <option value="aprendizaje">Aprender náhuatl</option>
+          <option value="conversaciones">Conversar en náhuatl</option>
+        </select>
+        <p id="mode-description" class="small">Pregunta en español por palabras y expresiones en náhuatl.</p>
+      </section>
+
+      <div class="model-state">
+        <span id="status-dot" class="status-dot" aria-hidden="true"></span>
+        <span id="model-status" role="status">Consultando modelo…</span>
+      </div>
+      <button type="button" id="refresh" class="text-button">Actualizar estado <span aria-hidden="true">↻</span></button>
+
+      <p class="sidebar-note">Práctica local · Náhuatl de la Huasteca<br>Las expresiones pueden variar entre comunidades.</p>
+    </aside>
+
+    <section class="chat-panel" aria-labelledby="chat-title">
+      <header class="chat-header">
+        <div><p class="eyebrow">TU CONVERSACIÓN</p><h2 id="chat-title">Vamos a practicar</h2></div>
+        <button type="button" id="clear" class="secondary-button">Limpiar</button>
+      </header>
+
+      <div id="notice" class="notice" role="status" hidden></div>
+
+      <div id="chat" class="chat-messages" role="log" aria-label="Mensajes de práctica" aria-live="polite" aria-relevant="additions">
+        <div id="welcome" class="welcome">
+          <span class="welcome-symbol" aria-hidden="true">✳</span>
+          <h3>Empieza con una pregunta</h3>
+          <p id="welcome-description">Escribe en español para consultar una palabra o expresión. El modelo buscará una intención entre las que aprendió.</p>
+          <div id="examples" class="examples" aria-label="Preguntas de ejemplo"></div>
+        </div>
+      </div>
+
+      <footer class="chat-footer">
+        <form id="chat-form">
+          <label for="message" class="sr-only">Tu mensaje</label>
+          <div class="composer">
+            <textarea id="message" name="message" rows="2" maxlength="2000" placeholder="Escribe tu pregunta…" required></textarea>
+            <button id="send" type="submit" aria-label="Enviar mensaje">Enviar <span aria-hidden="true">↑</span></button>
+          </div>
+          <div class="composer-meta"><span>Enter para enviar · Mayús + Enter para una nueva línea</span><span id="counter">0 / 2000</span></div>
+        </form>
+        <p class="disclaimer">Este clasificador selecciona respuestas del conjunto de entrenamiento. La puntuación indica coincidencia de intención, no certeza sobre la lengua. No mantiene contexto entre mensajes.</p>
+      </footer>
+    </section>
+  </main>
+</body>
+</html>

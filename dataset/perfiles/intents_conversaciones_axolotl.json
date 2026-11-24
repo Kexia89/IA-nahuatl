@@ -1,0 +1,78 @@
+{
+  "intents": [
+    {
+      "tag": "axolotl_comprobar_veracidad",
+      "patterns": [
+        "¿Nelí?",
+        "¿Uan melauak?"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_regreso",
+      "patterns": [
+        "Kuali ta tiualajki"
+      ],
+      "responses": [
+        "Bueno, tlaskamati"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_visita",
+      "patterns": [
+        "Tlaskamati para tiualajki"
+      ],
+      "responses": [
+        "Bueno, tlaskamati"
+      ]
+    },
+    {
+      "tag": "axolotl_recibir_elogio",
+      "patterns": [
+        "Kuali titekiti, ta tibuen Joven"
+      ],
+      "responses": [
+        "Bueno, tlaskamati"
+      ]
+    },
+    {
+      "tag": "axolotl_avisar_salida",
+      "patterns": [
+        "Na ya niya",
+        "Niyasa niajsiti nocha"
+      ],
+      "responses": [
+        "¡Xiya!"
+      ]
+    },
+    {
+      "tag": "axolotl_anunciar_agua",
+      "patterns": [
+        "Na niya nijkuiti atl"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    },
+    {
+      "tag": "axolotl_aceptar_trabajo",
+      "patterns": [
+        "Imojuanti intekitise"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    },
+    {
+      "tag": "axolotl_aceptar_estancia",
+      "patterns": [
+        "Kena, nomponi tiitstose kuali"
+      ],
+      "responses": [
+        "Kena"
+      ]
+    }
+  ]
+}

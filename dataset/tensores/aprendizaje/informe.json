@@ -1,0 +1,37 @@
+{
+  "entrada": "intents_aprender_nahuatl.json",
+  "sha256_entrada": "ca84ed6ec5316db1c89d06431884060e9bfa25f835eb5938864f8111142166cc",
+  "clases": 345,
+  "vocabulario": 45,
+  "particiones": {
+    "train": {
+      "filas": 1380,
+      "forma_X": [
+        1380,
+        128
+      ],
+      "desconocidos": 0,
+      "textos_truncados": 0
+    },
+    "validation": {
+      "filas": 516,
+      "forma_X": [
+        516,
+        128
+      ],
+      "desconocidos": 0,
+      "textos_truncados": 0
+    },
+    "test": {
+      "filas": 516,
+      "forma_X": [
+        516,
+        128
+      ],
+      "desconocidos": 0,
+      "textos_truncados": 0
+    }
+  },
+  "estrategia_particion": "Familias de plantillas españolas: evaluación cerrada del clasificador.",
+  "limite_evaluacion": "No mide conversación libre, traducción general ni validación lingüística."
+}

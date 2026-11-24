@@ -1,0 +1,37 @@
+{
+  "entrada": "intents_conversaciones_nahuatl.json",
+  "sha256_entrada": "444edef4cc26919f573584db9003a5bd363594a800ed848d2a036796f400bb75",
+  "clases": 29,
+  "vocabulario": 30,
+  "particiones": {
+    "train": {
+      "filas": 42,
+      "forma_X": [
+        42,
+        64
+      ],
+      "desconocidos": 0,
+      "textos_truncados": 0
+    },
+    "validation": {
+      "filas": 0,
+      "forma_X": [
+        0,
+        64
+      ],
+      "desconocidos": 0,
+      "textos_truncados": 0
+    },
+    "test": {
+      "filas": 0,
+      "forma_X": [
+        0,
+        64
+      ],
+      "desconocidos": 0,
+      "textos_truncados": 0
+    }
+  },
+  "estrategia_particion": "Solo train: no hay suficientes ejemplos independientes por clase para una evaluación válida.",
+  "limite_evaluacion": "No mide conversación libre, traducción general ni validación lingüística."
+}
